@@ -27,11 +27,6 @@
 *Blogging* :  
 - Rédaction d’article pour la clôture de la formation **NaNaTech Immersion** (octobre 2024, région des plateaux-ouest).  
 
-
-
-
-Voici un contenu bien structuré que tu peux inclure dans ton fichier README sur GitHub pour cette expérience :  
-
 ---
 
 ### **Responsable de services informatiques TICE – ADSL-2EF** *(Août 2021 – Mai 2024)*  
@@ -39,14 +34,14 @@ Voici un contenu bien structuré que tu peux inclure dans ton fichier README sur
 
 #### **Réalisations et responsabilités**  
 1. **Intégration de solution e-learning : (Outil de gestion de contenu : CMS WordPress)** :
-   Technologies utilisées : 
+   **Technologies utilisées** : 
      - HTML / CSS / JavaScript / PHP / MySQL.  
      - Plugins : **WooCommerce**, **Elementor Pro**, **Tutor LMS**.
 
-   - 📌 **Sites développés** :  
+   - 📌 **Sites développés et fonctionnel** :  
      - [adsl2ef.com, toujours en attente de réabonnement](http://www.adsl2ef.com)   
 
-2. **Gestion des réseaux sociaux** :  
+2. **Gestion des réseaux sociaux professionnels** :  
    - Administration des comptes sociaux de la structure :  
      - [Facebook](https://www.facebook.com/adsl.formation.tg/about_profile_transparency?locale=fr_FR)  
      - [TikTok](https://www.tiktok.com/@adsl2ef)  
