@@ -27,6 +27,7 @@ Développeur passionné par le numérique, mon parcours se focalise sur l'univer
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=flat&logo=pycharm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) 
 ![WordPress](https://img.shields.io/badge/WordPress-%230078D6.svg?style=flat&logo=wordpress&logoColor=white) 
+![Elementor](https://img.shields.io/badge/Elementor-%230078D6.svg?style=flat&logo=elementor&logoColor=white)
 
 
 ## 🌐 Socials:
