@@ -29,6 +29,49 @@
 
 
 
+
+Voici un contenu bien structuré que tu peux inclure dans ton fichier README sur GitHub pour cette expérience :  
+
+---
+
+### **Responsable de services informatiques TICE – ADSL-2EF** *(Août 2021 – Mai 2024)*  
+**Centre de Formation en Gestion des Systèmes Éducatifs, Lomé-Togo (CDD – 2 ans 10 mois)*  
+
+#### **Réalisations et responsabilités**  
+1. **Intégration de solution e-learning : (Outil de gestion de contenu : CMS WordPress)** :
+   Technologies utilisées : 
+     - HTML / CSS / JavaScript / PHP / MySQL.  
+     - Plugins : **WooCommerce**, **Elementor Pro**, **Tutor LMS**.
+
+   - 📌 **Sites développés** :  
+     - [adsl2ef.com, toujours en attente de réabonnement](http://www.adsl2ef.com)   
+
+2. **Gestion des réseaux sociaux** :  
+   - Administration des comptes sociaux de la structure :  
+     - [Facebook](https://www.facebook.com/adsl.formation.tg/about_profile_transparency?locale=fr_FR)  
+     - [TikTok](https://www.tiktok.com/@adsl2ef)  
+     - [LinkedIn](https://www.linkedin.com/company/adsl-2ef/?originalSubdomain=tg)  
+
+5. **Organisation des données** :  
+   - Gestion de base de données des contacts médias sous Excel.
+---
+
+### **Prestation de service en technologies de l'information – ADSL-2EF** *(Janvier 2020 – Mai 2024)*  
+**Centre de Formation en Gestion des Systèmes Éducatifs, Lomé-Togo (Contrat de prestation – 4 ans 5 mois)*  
+
+#### **Réalisations et responsabilités**  
+1. **Conseils technologiques** :  
+   - Recommandation et intégration de solutions informatiques (logiciels et matériels).  
+
+2. **Veille technologique** :  
+   - Analyse des tendances et innovations pour proposer des outils adaptés aux besoins de la structure.  
+
+3. **Gestion d’événements ** :  
+   - Organisation et gestion de webinaires et réunions via **Zoom**.  
+   - Mise en place et supervision de **live-streaming YouTube**.  
+     - 📌 Live-streaming : [Lien YouTube](https://www.youtube.com/live/bS4ezBMKE_I?si=vMh8mqlw4-PU5LHK).  
+
+
 ---
 
 #### 💻 Mes outils du quotidien :
