@@ -21,6 +21,10 @@ Développeur passionné par le numérique, mon parcours se focalise sur l'univer
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=windows&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) 
+![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=flat&logo=pycharm&logoColor=white)
 
 
 ## 🌐 Socials:
