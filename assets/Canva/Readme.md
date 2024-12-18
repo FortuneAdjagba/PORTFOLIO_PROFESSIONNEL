@@ -41,7 +41,8 @@
    - 📌 **Sites développés et fonctionnel** :  
      - [adsl2ef.com, toujours en attente de réabonnement](http://www.adsl2ef.com)   
 
-2. **Gestion des réseaux sociaux professionnels** :  
+2. **Gestion réseaux sociaux professionnels**
+   *(facebook, TikTok, LinkedIn)* :  
    - Administration des comptes sociaux de la structure :  
      - [Facebook](https://www.facebook.com/adsl.formation.tg/about_profile_transparency?locale=fr_FR)  
      - [TikTok](https://www.tiktok.com/@adsl2ef)  
