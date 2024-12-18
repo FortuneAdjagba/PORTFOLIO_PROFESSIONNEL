@@ -8,7 +8,7 @@
 
 ---
 
-### À propos de moi  
-Développeur passionné par le numérique, mon parcours se focalise sur l'univers dynamique du ***développement web**, **de la programmation**, **la conception** et la **communication numérique**.*
+Développeur passionné par le numérique, mon parcours se focalise sur l'univers dynamique du **développement web**, **la programmation web**, **la conception** et la **communication numérique**.
+
 📧 **Contact** : [Ton adresse email]  
 🌐 **LinkedIn** : [Ton lien LinkedIn]  
