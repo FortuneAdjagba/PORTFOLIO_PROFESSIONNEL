@@ -7,7 +7,7 @@
   - Rédaction des TDRs et agendas.  
   - Rédaction et diffusion des communiqués de presse.  
   - Organisation logistique et coordination des médias.  
-  - 🔗 [Lien Facebook](https://www.facebook.com/share/p/9wXtNYeddQobTt1S/) | [Lien LinkedIn](https://urlr.me/K3csaN).  
+  - 🔗 [Lien Facebook](https://www.facebook.com/share/p/9wXtNYeddQobTt1S/) | [Lien LinkedIn](https://urlr.me/K3csaN). *vous pouvez utiliser Ctrl + clic (Windows/Linux) ou Cmd + clic (macOS), ou un clic droit et choisir "Ouvrir dans un nouvel onglet"*. 
 
 - **Démo Day NaNaTech Entrepreneures** (16 novembre 2024, Hôtel 2 Février)  
   - Négociation avec les médias pour la couverture de l’événement.  
