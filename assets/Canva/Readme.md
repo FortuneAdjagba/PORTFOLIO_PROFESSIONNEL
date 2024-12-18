@@ -1,5 +1,5 @@
 
-### Publications marketing
+### Publications marketing - NaNatech
 *Événements organisés* :  
 - **Atelier de dissémination NaNaTech Écosystème** (07 novembre 2024, CETEF)  
   - Rédaction des TDRs et agendas.  
@@ -16,7 +16,7 @@
 - Coordination des services médiatiques avec TVT, Radio Lomé, ATOP, et Djena Media.  
 - Suivi logistique et collecte des factures.  
 
-## Stratégies de contenu et communication digitale
+## Stratégies de contenu et communication digitale - NaNatech
 
 *Réseaux sociaux professionnels (LinkedIn et Facebook)* :  
 - Élaboration et publication de contenus pour promouvoir les événements NaNaTech.  
