@@ -9,6 +9,6 @@
 ---
 
 ### À propos de moi  
-Je suis passionné par le **marketing digital**, le **design visuel** et la **création de solutions innovantes**.  
+Développeur passionné par le numérique, mon parcours se focalise sur l'univers dynamique du ***développement web**, **de la programmation**, **la conception** et la **communication numérique**.*
 📧 **Contact** : [Ton adresse email]  
 🌐 **LinkedIn** : [Ton lien LinkedIn]  
