@@ -1,14 +1,36 @@
-🔗 *Portfolio professionnel – **Designs UX/UI**, **Communication digitale**, **Publications marketing**, **Infographie** et **Prototypage**.*
-## Contenu du Portfolio  
-1. **[Canva](./assets/Canva/Readme.md)** : Mes créations graphiques canva.
-2. **[Photoshop](./assets/Photoshop/Readme.md)** : Mes créations graphiques photoshop.  
-3. **[Comm digitale & Publications Marketing](./assets/Comm_digitale_&_Publications_Marketing/Readme.md)** : Liens vers des publications réalisées pour diverses entreprises.  
-4. **[Prestations en Infographie](./assets/Prestations_en_Infographie/Readme.md)** : Travaux spécifiques en design graphique.  
-5. **[Prototypes Figma & Anima](./assets/Prototypes_Figma_&_Anima/Readme.md)** : Prototypes interactifs et designs UX/UI.  
+# Assistant en Communication Marketing – AJC's Creativity  
+### Septembre 2024 – Présent  
+
+## 1. Gestion de projets de communication marketing  
+
+### Événements organisés :  
+- **Atelier de dissémination NaNaTech Écosystème** (07 novembre 2024, CETEF)  
+  - Rédaction des TDRs et agendas.  
+  - Rédaction et diffusion des communiqués de presse.  
+  - Organisation logistique et coordination des médias.  
+  - 🔗 [Lien Facebook](https://www.facebook.com/share/p/9wXtNYeddQobTt1S/) | [Lien LinkedIn](https://urlr.me/K3csaN).  
+
+- **Démo Day NaNaTech Entrepreneures** (16 novembre 2024, Hôtel 2 Février)  
+  - Négociation avec les médias pour la couverture de l’événement.  
+  - Supervision des paiements et collecte des justificatifs.  
+  - 🔗 [Lien Facebook](https://www.facebook.com/share/p/NYwiFsW1FsjKFSfc/) | [Lien LinkedIn](https://urlz.fr/t9kU).  
+
+### Relations presse :  
+- Coordination des services médiatiques avec TVT, Radio Lomé, ATOP, et Djena Media.  
+- Suivi logistique et collecte des factures.  
 
 ---
 
-Développeur passionné par le numérique, mon parcours se focalise sur l'univers dynamique du **développement web**, **la programmation web**, **la conception** et la **communication numérique**.
+## 2. Stratégies de contenu et communication digitale  
+
+### Réseaux sociaux professionnels (LinkedIn et Facebook) :  
+- Élaboration et publication de contenus pour promouvoir les événements NaNaTech.  
+- 🔗 Exemples de publications :  
+  - [Blog de clôture NaNaTech Immersion](https://www.facebook.com/share/p/b9yppEWPGzm8j4Zc/) | [Lien LinkedIn](https://urlz.fr/t9oA).  
+  - Publications événementielles ([CETEF](https://www.facebook.com/share/p/9wXtNYeddQobTt1S/) | [Hôtel 2 Février](https://www.facebook.com/share/p/NYwiFsW1FsjKFSfc/)).  
+
+### Blogging :  
+- Rédaction d’un article pour la clôture de la formation **NaNaTech Immersion** (octobre 2024, région des plateaux-ouest).  
 
 ---
 
