@@ -20,12 +20,12 @@
 
 ##### Réseaux sociaux professionnels (LinkedIn et Facebook) :  
 - Élaboration et publication de contenus pour promouvoir les événements NaNaTech.  
-- 🔗 Exemples de publications :  
+- 🔗 Publications :  
   - [Blog de clôture NaNaTech Immersion](https://www.facebook.com/share/p/b9yppEWPGzm8j4Zc/) | [Lien LinkedIn](https://urlz.fr/t9oA).  
   - Publications événementielles ([CETEF](https://www.facebook.com/share/p/9wXtNYeddQobTt1S/) | [Hôtel 2 Février](https://www.facebook.com/share/p/NYwiFsW1FsjKFSfc/)).  
 
 ##### Blogging :  
-- Rédaction d’un article pour la clôture de la formation **NaNaTech Immersion** (octobre 2024, région des plateaux-ouest).  
+- Rédaction d’article pour la clôture de la formation **NaNaTech Immersion** (octobre 2024, région des plateaux-ouest).  
 
 ---
 
