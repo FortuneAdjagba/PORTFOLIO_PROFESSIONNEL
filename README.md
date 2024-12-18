@@ -1,5 +1,5 @@
 🔗 *Portfolio professionnel – **Designs UX/UI**, **Communication digitale**, **Publications marketing**, **Infographie** et **Prototypage**.*
-## Contenu du Portfolio  
+## Contenu de mon portfolio  
 1. **[Canva](./assets/Canva/Readme.md)** : Mes créations graphiques canva.
 2. **[Photoshop](./assets/Photoshop/Readme.md)** : Mes créations graphiques photoshop.  
 3. **[Comm digitale & Publications Marketing](./assets/Comm_digitale_&_Publications_Marketing/Readme.md)** : Liens vers des publications réalisées pour diverses entreprises.  
