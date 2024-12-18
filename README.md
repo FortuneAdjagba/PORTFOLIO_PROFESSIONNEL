@@ -25,6 +25,8 @@ Développeur passionné par le numérique, mon parcours se focalise sur l'univer
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=windows&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) 
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=flat&logo=pycharm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) 
+![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=microsoft-windows&logoColor=white) 
 
 
 ## 🌐 Socials:
