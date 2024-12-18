@@ -1,6 +1,6 @@
 
-### Mon portfolio Comm digitale & publications marketing 
-####### *Découvrez mes styles de rédaction*
+### Portfolio Comm digitale & publications marketing 
+*Découvrez mes styles de rédaction*
 
 ### Publications marketing - NaNatech
 *Événements organisés* :  
