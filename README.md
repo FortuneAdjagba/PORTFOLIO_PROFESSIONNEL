@@ -35,7 +35,7 @@ Développeur passionné par le numérique, mon parcours se focalise sur l'univer
 ![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=windows&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white) 
-![WordPress](https://img.shields.io/badge/WordPress-%230078D6.svg?style=flat&logo=wordpress&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%230078D6.svg?style=flat&logo=wordpress&logoColor=white) 
 ![Wix](https://img.shields.io/badge/Wix-%230078D6.svg?style=flat&logo=wix&logoColor=white) 
 ![Elementor](https://img.shields.io/badge/Elementor-%230078D6.svg?style=flat&logo=elementor&logoColor=white)
 
