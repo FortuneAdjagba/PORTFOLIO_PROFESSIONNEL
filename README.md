@@ -1,8 +1,8 @@
 
 🔗 *Portfolio professionnel – **Designs UX/UI**, **Communication digitale**, **Publications marketing**, **Infographie** et **Prototypage**.*
 ## Contenu de mon portfolio  
-1. **[Canva](./assets/Canva/Readme)** : Mes créations graphiques canva.
-2. **[Photoshop](./assets/photoshop__assets/Readme.md)** : Mes créations graphiques photoshop.  
+1. **[Canva](./assets/Canva/Readme)** : Quelques unes de mes réalisations graphiques canva.
+2. **[Photoshop](./assets/photoshop__assets/Readme.md)** : Quelques unes de mes réalisations graphiques photoshop.  
 3. **[Communication Marketing](./assets/Communication_Marketing/Readme.md)** : Liens vers des publications réalisées pour diverses entreprises.  
 4. **[Prestations en Infographie](./assets/Prestations_infographie_assets/Readme.md)** : Travaux spécifiques en design graphique.  
 5. **[Prototypes Figma & Anima](./assets/Prototypes_assets/Readme.md)** : Prototypes interactifs et designs UX/UI.  
@@ -40,13 +40,9 @@ Développeur passionné par le numérique, mon parcours se focalise sur l'univer
 ![Wix](https://img.shields.io/badge/Wix-%230078D6.svg?style=flat&logo=wix&logoColor=white) 
 ![Elementor](https://img.shields.io/badge/Elementor-%230078D6.svg?style=flat&logo=elementor&logoColor=white)
 
-----------------------------------------------------------------------------------------------------------------------------------------
+##### *Mon site bio (anglais)*: https://beacons.ai/mywebsite.com
 
-*Mon site bio (anglais)*: https://beacons.ai/mywebsite.com
-
-
-## 🌐 Liens Sociaux :
 [![X](https://img.shields.io/badge/X-%230077B5.svg?logo=X&logoColor=white)](https://X.com/adjagbafortune)
-[![Facebook](https://img.shields.io/badge/Facebook-%23E4405F.svg?logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=100069535291292) 
----
-fortuneadjagba@gmail.com / (00228) 90756908
+[![Facebook](https://img.shields.io/badge/Facebook-%23E4405F.svg?logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=100069535291292)
+
+fortuneadjagba@gmail.com / (00228) 90756908*
