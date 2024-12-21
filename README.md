@@ -46,7 +46,7 @@ Développeur passionné par le numérique, mon parcours se focalise sur l'univer
 
 
 ## 🌐 Liens Sociaux :
-[![X](https://img.shields.io/badge/X-%230077B5.svg?logo=X&logoColor=white)](https://X.com/in/AdjagbaFortune)
-[![Facebook](https://img.shields.io/badge/Facebook-%23E4405F.svg?logo=facebook&logoColor=white)](https://facebook.com/fortune_tg) 
+[![X](https://img.shields.io/badge/X-%230077B5.svg?logo=X&logoColor=white)](https://X.com/adjagbafortune)
+[![Facebook](https://img.shields.io/badge/Facebook-%23E4405F.svg?logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=100069535291292) 
 ---
 fortuneadjagba@gmail.com / (00228) 90756908
