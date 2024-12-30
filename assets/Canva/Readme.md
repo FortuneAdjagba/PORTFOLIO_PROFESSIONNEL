@@ -8,7 +8,8 @@
 <img src="./static_files/PresentationEcoSaveInfinity.png" alt="PresentationEcoSaveInfinity" width="750"/>
 <img src="./static_files/BoutiqueEcoSaveInfinity.png" alt="BoutiqueEcoSaveInfinity" width="750"/>
 
-[Publications réesaux sociaux]
+[Publications réseaux sociaux]
+
 <img src="./static_files/affichepsychopédagogie_adsl2ef.jpg" alt="affichepsychopédagogie_adsl2ef" width="750"/>
 <img src="./static_files/affichesoutienscolaire_adsl2ef.jpg" alt="affichesoutienscolaire_adsl2ef" width="750"/>
 <img src="./static_files/afficherecrutement_adsl2ef.jpg" alt="afficherecrutement_adsl2ef" width="750"/>
