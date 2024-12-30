@@ -5,11 +5,12 @@
 2. **[Photoshop](./assets/Photoshop/Readme.md)** : Quelques-unes de mes réalisations graphiques.  
 3. **[Communication Marketing](./assets/Communication_Marketing/Readme.md)** : Liens vers des publications réalisées pour diverses structures.  
 4. **[Prestations en Infographie](./assets/Prestations_Infographie/Readme.md)** : Travaux spécifiques en design graphique.  
-5. **[Prototypes Figma & Anima](./assets/Prototypes/Readme.md)** : Prototypes interactifs et designs UX/UI.  
+5. **[Prototypes Figma & Anima](./assets/Prototypes/Readme.md)** : Prototypes interactifs et designs UX/UI.
+6. **[Cours Programmation Python](./assets/Programmation/Readme.md)** : Mes séries de cours et exercices en programmation avec python. 
 
 ---
 
-Développeur passionné par le numérique, mon parcours se focalise sur l'univers dynamique du **développement web**, **la programmation web**, **la conception** et la **communication numérique**.
+Développeur passionné par le numérique, mon parcours se focalise sur l'univers dynamique du **développement web**, **de la programmation**, **de la conception** et de la **communication numérique**.
 
 ---
 
