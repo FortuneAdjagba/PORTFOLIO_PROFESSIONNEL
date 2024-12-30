@@ -4,9 +4,11 @@
 
 [Campagne Écosase Infinity]
 
-<img src="./static_files/OffreSpecialeRemisede15.png" alt="OffreSpecialeRemisede15" width="750"/>
-<img src="./static_files/PresentationEcoSaveInfinity.png" alt="PresentationEcoSaveInfinity" width="750"/>
-<img src="./static_files/BoutiqueEcoSaveInfinity.png" alt="BoutiqueEcoSaveInfinity" width="750"/>
+<img src="./static_files/OffreSpecialeRemisede15.png" alt="OffreSpecialeRemisede15" width="900"/>
+<div style="display: flex; gap: 10px;">
+<img src="./static_files/PresentationEcoSaveInfinity.png" alt="PresentationEcoSaveInfinity" width="450"/>
+<img src="./static_files/BoutiqueEcoSaveInfinity.png" alt="BoutiqueEcoSaveInfinity" width="450"/>
+</div>
 
 [Publications réseaux sociaux]
 
