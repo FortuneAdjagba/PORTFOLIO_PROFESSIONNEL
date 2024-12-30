@@ -12,21 +12,18 @@
 
 <img src="./static_files/affichepsychopédagogie_adsl2ef.jpg" alt="affichepsychopédagogie_adsl2ef" width="750"/>
 <div style="display: flex; gap: 10px;">
-<img src="./static_files/afficherecrutement_adsl2ef.jpg" alt="afficherecrutement_adsl2ef" width="375"/>
-  <img src="./static_files/affichesoutienscolaire_adsl2ef.jpg" alt="affichesoutienscolaire_adsl2ef" width="375"/>
 </div>
 
-##### PRESTATIONS !
+[Publications réseaux sociaux - adsl2ef]
 
-[Infographie informative_adsl2ef]
-
-<img src="./static_files/affichetarifs_adsl2ef.png" alt="affichetarifs_adsl2ef" width="750"/>
-<img src="./static_files/afficheservices_adsl2ef.png" alt="afficheservices_adsl2ef" width="750"/>
 <div style="display: flex; gap: 10px;">
 <img src="./static_files/appmobiletraitblanc_adsl2ef.png" alt="appmobiletraitblanc_adsl2ef" width="375"/>
 <img src="./static_files/appmobile_adsl2ef.png" alt="appmobile_adsl2ef" width="375"/>
 <img src="./static_files/appmobilepartenaire_adsl2ef.png" alt="appmobilepartenaire_adsl2ef" width="375"/>
 </div>
 
+[Infographie informative_adsl2ef]
 
+<img src="./static_files/affichetarifs_adsl2ef.png" alt="affichetarifs_adsl2ef" width="750"/>
+<img src="./static_files/afficheservices_adsl2ef.png" alt="afficheservices_adsl2ef" width="750"/>
 
