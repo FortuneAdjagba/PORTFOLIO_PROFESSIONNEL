@@ -1,8 +1,9 @@
-###### Mises à jour toujours en cours...
+###### *Mises à jour toujours en cours...*
 
-##### PORTFOLIO_CANVA !
+##### QUELQUES-UNES DE MES REALISATIONS CANVA !
+*Découvrez mes styles de conception visuels pour des publications adaptés à différentes plateformes (images pour Facebook, Instagram, Twitter, et sites web).*
 
-[Campagne Écosase Infinity]
+[Supports Écosase Infinity - *pour la simulation d'une Campagne Emailing dans le cadre du stage au Nunulab Lab (Septembre - Décembre 2024)*]
 
 <img src="./static_files/OffreSpecialeRemisede15.png" alt="OffreSpecialeRemisede15" width="900"/>
 <div style="display: flex; gap: 10px;">
@@ -10,14 +11,11 @@
 <img src="./static_files/BoutiqueEcoSaveInfinity.png" alt="BoutiqueEcoSaveInfinity" width="450"/>
 </div>
 
-[Publications réseaux sociaux]
+[Supports de publications réseaux sociaux - adsl2ef]
 
 <img src="./static_files/affichepsychopédagogie_adsl2ef.jpg" alt="affichepsychopédagogie_adsl2ef" width="750"/>
 <div style="display: flex; gap: 10px;">
 </div>
-
-[Publications réseaux sociaux - adsl2ef]
-
 <div style="display: flex; gap: 10px;">
 <img src="./static_files/appmobiletraitblanc_adsl2ef.png" alt="appmobiletraitblanc_adsl2ef" width="375"/>
 <img src="./static_files/appmobile_adsl2ef.png" alt="appmobile_adsl2ef" width="375"/>
