@@ -2,7 +2,7 @@
 
 ##### PORTFOLIO_CANVA !
 
-*Quelques-uns de mes styles de conception visuelle pour des publications adaptées aux canaux de diffusion (site web, réseaux sociaux).*
+*Quelques-uns de mes styles de conception visuelle pour des publications adaptées aux canaux de diffusion numériques (site web, réseaux sociaux) et imprimés (affiches, brochures, flyers)*
 
 [Supports Écosase Infinity - *pour la simulation individuelle d'une Campagne Emailing avec Brevo (ex Sendinblue) dans le cadre du stage au Nunya Lab (Septembre - Décembre 2024)*]
 
@@ -14,11 +14,7 @@
 
 <div style="display: flex; gap: 10px;">
   <img src="./static_files/partenairePARULuniversity_adsl2ef.jpg" alt="partenairePARULuniversity_adsl2ef" width="450"/>  
-
-</div>
-
-
-----
+</div>&nbsp;
 
 [Supports de publications réseaux sociaux - _Responsable TICE adsl2ef (Août 2021 – Mai 2024)_]
 
