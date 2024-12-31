@@ -1,10 +1,8 @@
 ###### Mises à jour toujours en cours...
 
-> [!NOTE]
-> *Mises à jour toujours en cours...*
+##### PORTFOLIO_CANVA !
 
-##### QUELQUES-UNES DE MES REALISATIONS CANVA !
-*Découvrez quelques-unes de mes styles de conception visuels pour des publications adaptés à différentes plateformes (images pour Facebook, Instagram, Twitter, et sites web).*
+*Quelques-uns de mes styles de conception visuelle pour des publications adaptées aux canaux de diffusion (site web, réseaux sociaux).*
 
 [Supports Écosase Infinity - *pour la simulation individuelle d'une Campagne Emailing avec Brevo (ex Sendinblue) dans le cadre du stage au Nunya Lab (Septembre - Décembre 2024)*]
 
@@ -38,3 +36,12 @@
 <img src="./static_files/affichetarifs_adsl2ef.png" alt="affichetarifs_adsl2ef" width="750"/>
 <img src="./static_files/afficheservices_adsl2ef.png" alt="afficheservices_adsl2ef" width="750"/>
 
+
+-
+<img src="./static_files/affichewomenday_adsl2ef.jpg" alt="affichewomenday_adsl2ef" width="450"/>
+<img src="./static_files/affichecoursparticuliers_adsl2ef.jpg" alt="affichecoursparticuliers_adsl2ef" width="450"/>
+<img src="./static_files/afficherecrutement_adsl2ef.jpg" alt="afficherecrutement_adsl2ef" width="450"/>
+<img src="./static_files/affichesoutienscolaire_adsl2ef.jpg" alt="affichesoutienscolaire_adsl2ef" width="450"/>
+<img src="./static_files/affichegoupetravail_adsl2ef.jpg" alt="affichegoupetravail_adsl2ef" width="450"/>
+<img src="./static_files/supportinscriptions_adsl2ef.jpg" alt="supportinscriptions_adsl2ef" width="450"/>
+<img src="./static_files/supportwebinaire_adsl2ef.jpg" alt="supportwebinaire_adsl2ef" width="450"/>
