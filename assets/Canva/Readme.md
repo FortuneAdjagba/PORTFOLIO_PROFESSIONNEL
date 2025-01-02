@@ -17,7 +17,7 @@
 <div style="display: flex; gap: 10px;">
   <img src="./static_files/affichepsychopédagogie_adsl2ef.jpg" alt="affichepsychopédagogie_adsl2ef" width="450"/>
   <img src="./static_files/publicationvaccance.png" alt="publicationvaccance" width="450"/>
-  <img src="./static_files/ateliersvacance_adsl2ef.png" alt="ateliersvacance_adsl2ef" width="400"/>
+  <img src="./static_files/ateliersvacance_adsl2ef.png" alt="ateliersvacance_adsl2ef" width="450"/>
 </div><br><br>
 
 *Bannière de publication - promotion coaching scolaire & app mobile*
