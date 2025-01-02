@@ -1,8 +1,8 @@
 
 ##### *QUELQUES-UNS DE MES STYLES DE CONCEPTION VISUELLE POUR DES PUBLICATIONS ADAPTEES AUX CANAUX DE DIFFUSION NUMERIQUES (SITE WEB, RESEAUX SOCIAUX) ET IMPRIMES (AFFICHES, BROCHURES, FLYERS)*<br><br>
 
-##### [Supports Écosase Infinity]
-*pour une Simulation individuelle d'une Campagne Emailing avec Brevo (ex Sendinblue) dans le cadre du stage au Nunya Lab (Septembre - Décembre 2024)*
+##### [Nunya Lab (Septembre - Décembre 2024)]
+*Pour une Simulation individuelle d'une Campagne Emailing avec Brevo (ex Sendinblue) dans le cadre du stage*
 
 <img src="./static_files/OffreSpecialeRemisede15.png" alt="OffreSpecialeRemisede15"/>
 
