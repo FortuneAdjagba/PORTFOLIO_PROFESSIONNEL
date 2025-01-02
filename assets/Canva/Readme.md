@@ -1,24 +1,21 @@
-###### Mises à jour toujours en cours...
 
-##### PORTFOLIO_CANVA !
+##### *QUELQUES-UNS DE MES STYLES DE CONCEPTION VISUELLE POUR DES PUBLICATIONS ADAPTEES AUX CANAUX DE DIFFUSION NUMERIQUES (SITE WEB, RESEAUX SOCIAUX) ET IMPRIMES (AFFICHES, BROCHURES, FLYERS)*<br><br><br>
 
-*Quelques-uns de mes styles de conception visuelle pour des publications adaptées aux canaux de diffusion numériques (site web, réseaux sociaux) et imprimés (affiches, brochures, flyers)*
-
-[Supports Écosase Infinity - *pour une Simulation individuelle d'une Campagne Emailing avec Brevo (ex Sendinblue) dans le cadre du stage au Nunya Lab (Septembre - Décembre 2024)*]
+##### [Supports Écosase Infinity]
+*pour une Simulation individuelle d'une Campagne Emailing avec Brevo (ex Sendinblue) dans le cadre du stage au Nunya Lab (Septembre - Décembre 2024)*
 
 <img src="./static_files/OffreSpecialeRemisede15.png" alt="OffreSpecialeRemisede15" width="900"/>
-  <div style="display: flex; gap: 10px;">
+
+<div style="display: flex; gap: 10px;">
   <img src="./static_files/PresentationEcoSaveInfinity.png" alt="PresentationEcoSaveInfinity" width="450"/>
   <img src="./static_files/BoutiqueEcoSaveInfinity.png" alt="BoutiqueEcoSaveInfinity" width="450"/>
 </div>
 
-<div style="display: flex; gap: 10px;">
-  <img src="./static_files/partenairePARULuniversity_adsl2ef.jpg" alt="partenairePARULuniversity_adsl2ef" width="450"/>  
-</div>&nbsp;
-
-[Supports de publications réseaux sociaux - _Responsable TICE adsl2ef (Août 2021 – Mai 2024)_]
+##### [Supports pour site web, bannière d'invitation webinaire, visuels pour publications réseaux sociaux]
+*Responsable TICE adsl2ef (Août 2021 – Mai 2024)*<br>
 
 <img src="./static_files/affichepsychopédagogie_adsl2ef.jpg" alt="affichepsychopédagogie_adsl2ef" width="750"/>
+
 <div style="display: flex; gap: 10px;">
 <img src="./static_files/appmobiletraitblanc_adsl2ef.png" alt="appmobiletraitblanc_adsl2ef" width="375"/>
 <img src="./static_files/appmobile_adsl2ef.png" alt="appmobile_adsl2ef" width="375"/>
