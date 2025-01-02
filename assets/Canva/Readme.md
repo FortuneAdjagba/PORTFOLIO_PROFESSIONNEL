@@ -36,6 +36,7 @@
   <img src="./static_files/affichepsychopédagogie_adsl2ef.jpg" alt="affichepsychopédagogie_adsl2ef" width="450"/>
   <img src="./static_files/publicationvaccance.png" alt="publicationvaccance" width="450"/>
   <img src="./static_files/ateliersvacance_adsl2ef.png" alt="ateliersvacance_adsl2ef" width="450"/>
+  <img src="./static_files/maquettereservation.png" alt="maquettereservation" width="450"/>
 </div><br><br>
 
 *images de fond page accueil - paour la conception web UI*
