@@ -12,14 +12,6 @@
 </div>
 
 ##### [Responsable TICE adsl2ef (Août 2021 – Mai 2024)]
-*Bannières de publication - promotion du nouveau service & images d'illustrations des ateliers de vacances* <br>
-
-<div style="display: flex; gap: 10px;">
-  <img src="./static_files/affichepsychopédagogie_adsl2ef.jpg" alt="affichepsychopédagogie_adsl2ef" width="450"/>
-  <img src="./static_files/publicationvaccance.png" alt="publicationvaccance" width="450"/>
-  <img src="./static_files/ateliersvacance_adsl2ef.png" alt="ateliersvacance_adsl2ef" width="450"/>
-</div><br><br>
-
 *Bannière de publication - promotion coaching scolaire & app mobile*
 
 <div style="display: flex; gap: 10px;">
@@ -38,16 +30,17 @@
 <img src="./static_files/coachingligne3_adsl2ef.png" alt="coachingligne3_adsl2ef" width="375"/>
 </div><br><br>
 
+*Bannières de publication - promotion du nouveau service & images d'illustrations des ateliers de vacances* <br>
+
+<div style="display: flex; gap: 10px;">
+  <img src="./static_files/affichepsychopédagogie_adsl2ef.jpg" alt="affichepsychopédagogie_adsl2ef" width="450"/>
+  <img src="./static_files/publicationvaccance.png" alt="publicationvaccance" width="450"/>
+  <img src="./static_files/ateliersvacance_adsl2ef.png" alt="ateliersvacance_adsl2ef" width="450"/>
+</div><br><br>
+
 *images de fond page accueil - paour la conception web UI*
 
 <img src="./static_files/sitewebpageaccueil_adsl2ef.png" alt="sitewebpageaccueil_adsl2ef" width="750"/><br><br>
-
-*Bannière de publication - partenaire adsl2ef*
-
-<div style="display: flex; gap: 10px;">
-  <img src="./static_files/partenairePARULuniversity_adsl2ef.jpg" alt="partenairePARULuniversity_adsl2ef" width="375"/>
-  <img src="./static_files/supportpartenairePARULuniversity_adsl2ef.jpg" alt="supportpartenairePARULuniversity_adsl2ef" width="375"/>
-</div><br><br>
 
 *Infographie informative*
 
