@@ -4,7 +4,7 @@
 
 *Quelques-uns de mes styles de conception visuelle pour des publications adaptées aux canaux de diffusion numériques (site web, réseaux sociaux) et imprimés (affiches, brochures, flyers)*
 
-[Supports Écosase Infinity - *pour la simulation individuelle d'une Campagne Emailing avec Brevo (ex Sendinblue) dans le cadre du stage au Nunya Lab (Septembre - Décembre 2024)*]
+[Supports Écosase Infinity - *pour une Simulation individuelle d'une Campagne Emailing avec Brevo (ex Sendinblue) dans le cadre du stage au Nunya Lab (Septembre - Décembre 2024)*]
 
 <img src="./static_files/OffreSpecialeRemisede15.png" alt="OffreSpecialeRemisede15" width="900"/>
   <div style="display: flex; gap: 10px;">
