@@ -1,25 +1,25 @@
 
-##### BIENVENU DANS MON PORTFOLIO_COMMUNICATION MARKETING !
-##### *DECOUVREZ MES STYLES DE REDACTION (VOUS POUVEZ POINTER LA SOURIS SUR LES LIENS ET APPUYER CTRL + CLIC (WINDOWS/LINUX) OU CMD + CLIC (MACOS), OU UN CLIC DROIT ET CHOISIR "OUVRIR DANS UN NOUVEL ONGLET").*
+#### BIENVENU DANS MON PORTFOLIO_COMMUNICATION MARKETING !
+###### *Decouvrez mes styles de redaction (vous pouvez pointer la souris sur les liens et appuyer ctrl + clic (windows/linux) ou cmd + clic (macos), ou un clic droit et choisir "ouvrir dans un nouvel onglet").*
 
-###### Marketing Digital - NaNatech
-*Événements organisés* :  
-- **Atelier de dissémination NaNaTech Écosystème** (07 novembre 2024, CETEF)  
+### MARKETING DIGITAL - NANATECH
+#### Événements organisés :  
+- ##### Atelier de dissémination NaNaTech Écosystème (07 novembre 2024, CETEF)  
   - Rédaction des TDRs et agendas.
   - Rédaction et diffusion des communiqués de presse.  
   - Organisation logistique et coordination des médias.  
   - 🔗 [Lien Facebook](https://www.facebook.com/share/p/9wXtNYeddQobTt1S/) | [Lien LinkedIn](https://urlr.me/K3csaN).
   
-- **Démo Day NaNaTech Entrepreneures** (16 novembre 2024, Hôtel 2 Février)  
+- ##### Démo Day NaNaTech Entrepreneures (16 novembre 2024, Hôtel 2 Février)  
   - Négociation avec les médias pour la couverture de l’événement.  
   - Supervision des paiements et collecte des justificatifs.  
   - 🔗 [Lien Facebook](https://www.facebook.com/share/p/NYwiFsW1FsjKFSfc/) | [Lien LinkedIn](https://urlz.fr/t9kU).  
 
-*Relations presse* :  
-- Coordination des services médiatiques avec TVT, Radio Lomé, ATOP, et Djena Media.  
-- Suivi logistique et collecte des factures.  
+- ##### Relations presse :  
+  - Coordination des services médiatiques avec TVT, Radio Lomé, ATOP, et Djena Media.  
+  - Suivi logistique et collecte des factures. <br><br>
 
-## Stratégies de contenu et communication digitale - NaNatech
+### STRATEGIES DE CONTENU ET COMMUNICATION DIGITALE - NANATECH
 
 *Réseaux sociaux professionnels (LinkedIn et Facebook)* :  
 - Élaboration et publication de contenus pour promouvoir les événements NaNaTech.  
@@ -28,10 +28,9 @@
   - Publications événementielles ([CETEF](https://www.facebook.com/share/p/9wXtNYeddQobTt1S/) | [Hôtel 2 Février](https://www.facebook.com/share/p/NYwiFsW1FsjKFSfc/)).  
 
 *Blogging* :  
-- Rédaction d’article pour la clôture de la formation **NaNaTech Immersion** (octobre 2024, région des plateaux-ouest).  
+- Rédaction d’article pour la clôture de la formation **[NaNaTech Immersion](https://www.facebook.com/share/p/b9yppEWPGzm8j4Zc/)** (octobre 2024, région des plateaux-ouest).<br><br>
 
----
-### En charge de la publication de 18 profils Nanatech entrepreneur : 
+*En charge de la publication de 18 profils Nanatech entrepreneur :* 
 - 🔗 P1. [Lien Facebook](https://www.facebook.com/share/p/1X5iQ9ckEK/) | [Lien LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7263300891489746944)
   
 - 🔗 P2. [Lien Facebook](https://www.facebook.com/share/p/15Bii1dUrq/) | [Lien LinkedIn](https://www.linkedin.com/posts/nana-tech_nanatechentrepreneures-nanatech-gouvtg-activity-7264269977925337088-wgVz?utm_source=share&utm_medium=member_desktop)
@@ -56,28 +55,39 @@
 
 ---
 
-### **Responsable de services informatiques TICE – ADSL-2EF** *(Août 2021 – Mai 2024)*  
-**Centre de Formation en Gestion des Systèmes Éducatifs, Lomé-Togo (CDD – 2 ans 10 mois)*  
+#### Responsable TICE – ADSL-2EF (Août 2021 – Mai 2024)  
 
-#### **Réalisations et responsabilités**  
-1. **Intégration de solution e-learning : (Outil de gestion de contenu : CMS WordPress)** :
-   **Technologies utilisées** : 
-     - HTML / CSS / JavaScript / PHP / MySQL.  
-     - Plugins : **WooCommerce**, **Elementor Pro**, **Tutor LMS**.
+#### Réalisations et Responsabilités  
+- **Intégration de solution e-learning :**  
+  - **Outil de gestion de contenu :** CMS WordPress  
+  - **Technologies utilisées :** HTML, CSS, JavaScript, PHP, MySQL  
+  - **Plugins :** WooCommerce, Elementor Pro, Tutor LMS
+  - **Hebergeur :** Hostinger
 
-   - 📌 **Sites développés et fonctionnel** :  
-     - [adsl2ef.com, toujours en attente de réabonnement](http://www.adsl2ef.com)   
+  📌 **Sites développés :**  
+  - *[adsl2ef.net](https://adsl2ef.net), pour les formations professionnelles*
+  - *[adsl2ef.com](https://adsl2ef.com), pour la promotion de l'école en ligne et du coaching scolaire (site vitrine)*
+L'objectif de l'intégration de cette solution est de moderniser l'accès à la formation en ligne et de dynamiser la présence numérique de l'entreprise, contribuant ainsi à attirer de nouveaux apprenants et à accroître sa visibilité sur le web..
 
-2. **Gestion réseaux sociaux professionnels**
-   *(facebook, TikTok, LinkedIn)* :  
-   - Administration des comptes sociaux de la structure :  
-     - [Facebook](https://www.facebook.com/adsl.formation.tg/about_profile_transparency?locale=fr_FR)  
-     - [TikTok](https://www.tiktok.com/@adsl2ef)  
-     - [LinkedIn](https://www.linkedin.com/company/adsl-2ef/?originalSubdomain=tg)  
+- **Stratégie de communication digitale et gestion des réseaux sociaux professionnels :**  
+  - **Administration des comptes sociaux de la structure :**  
+    - *Facebook*, *TikTok*, *LinkedIn*  
+  - **Gestion de la communication marketing via les réseaux sociaux :**  
+    - Création et planification de contenus visuels et rédactionnels pour augmenter l'engagement et attirer une audience ciblée.
+    - Mise en place de campagnes pour promouvoir les services de formation en ligne, générant une interaction plus directe avec les utilisateurs et la communauté éducative.
 
-5. **Organisation des données** :  
-   - Gestion de base de données des contacts médias sous Excel.
+- **Analyse et gestion des données :**  
+  - **Organisation et gestion de base de données des contacts médias :**  
+    - Suivi de l'engagement via les réseaux sociaux et segmentation des contacts pour optimiser la communication et le marketing.
+    - Utilisation d'Excel pour suivre les performances des campagnes et des actions de communication. Cela a permis une meilleure évaluation des stratégies marketing en termes de portée et d'impact.
+
+#### Compétences Clés :  
+- **Marketing digital :** Création et gestion de contenu sur les réseaux sociaux, développement de stratégies d'engagement.
+- **Analyse de données :** Suivi des performances des campagnes de marketing et gestion de la base de contacts.
+- **Communication visuelle et rédactionnelle :** Création de visuels impactants et rédaction de messages adaptés à l'audience cible.
+
 ---
+
 
 ### **Prestation de service en technologies de l'information – ADSL-2EF** *(Janvier 2020 – Mai 2024)*  
 **Centre de Formation en Gestion des Systèmes Éducatifs, Lomé-Togo (Contrat de prestation – 4 ans 5 mois)*  
