@@ -1,6 +1,6 @@
 
 ##### BIENVENU DANS MON PORTFOLIO_COMMUNICATION MARKETING !
-*Découvrez mes styles de rédaction (vous pouvez pointer la souris sur les liens et appuyer Ctrl + clic (Windows/Linux) ou Cmd + clic (macOS), ou un clic droit et choisir "Ouvrir dans un nouvel onglet"*).
+##### *DECOUVREZ MES STYLES DE REDACTION (VOUS POUVEZ POINTER LA SOURIS SUR LES LIENS ET APPUYER CTRL + CLIC (WINDOWS/LINUX) OU CMD + CLIC (MACOS), OU UN CLIC DROIT ET CHOISIR "OUVRIR DANS UN NOUVEL ONGLET").*
 
 ###### Marketing Digital - NaNatech
 *Événements organisés* :  
