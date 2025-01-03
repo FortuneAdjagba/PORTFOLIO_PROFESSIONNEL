@@ -43,7 +43,7 @@
 ![Wix](https://img.shields.io/badge/Wix-%230078D6.svg?style=flat&logo=wix&logoColor=white) 
 ![Elementor](https://img.shields.io/badge/Elementor-%230078D6.svg?style=flat&logo=elementor&logoColor=white)<br>
 
-##### *Mon site bio : https://beacons.ai/mywebsite.com* <br>
+##### *Mon site bio : [www.digitalpulse.com](https://beacons.ai/mywebsite.com)* <br>
 
 [![X](https://img.shields.io/badge/X-%230077B5.svg?logo=X&logoColor=white)](https://X.com/adjagbafortune)
 [![Facebook](https://img.shields.io/badge/Facebook-%23E4405F.svg?logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=100069535291292)
