@@ -54,8 +54,8 @@
 *Bannières de publication - partenaire adls2ef*
 
 <div style="display: flex; gap: 10px;">
-  <img src="./static_files/partenairePARULuniversity_adsl2ef.jpg" alt="partenairePARULuniversity_adsl2ef" width="450"/>
-  <img src="./static_files/supportpartenairePARULuniversity_adsl2ef.jpg" alt="supportpartenairePARULuniversity_adsl2ef" width="450"/>
+  <img src="./static_files/partenairePARULuniversity_adsl2ef.jpg" alt="partenairePARULuniversity_adsl2ef" width="375"/>
+  <img src="./static_files/supportpartenairePARULuniversity_adsl2ef.jpg" alt="supportpartenairePARULuniversity_adsl2ef" width="375"/>
 </div><br><br>
 
 *Bannières de publication évenement & promotion*
