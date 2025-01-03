@@ -6,11 +6,11 @@
   
    ***[Infographie - Photoshop](./assets/Photoshop/Readme.md) : Mes travaux spécifiques en design graphique avec le logiciel de conception photoshop.***
   
-   *[Communication Marketing](./assets/Communication_Marketing/Readme.md) : **Liens vers des publications réalisées pour diverses structures.***
+   ***[Communication Marketing](./assets/Communication_Marketing/Readme.md) : Liens vers des publications réalisées pour diverses structures.***
   
-   *[Prototypes Figma & Anima](./assets/Prototypes/Readme.md) : **Prototypes interactifs et designs UX/UI.***
+   ***[Prototypes Figma & Anima](./assets/Prototypes/Readme.md) : Prototypes interactifs et designs UX/UI.***
   
-   *[Cours Programmation Python](./assets/Programmation/Readme.md) : **Mes séries de cours et exercices en programmation avec python.*** <br><br>
+   ***[Cours Programmation Python](./assets/Programmation/Readme.md) : Mes séries de cours et exercices en programmation avec python.*** <br><br>
 
 
 *Développeur passionné par le numérique, mon parcours se focalise sur l'univers dynamique du **développement web**, **de la programmation**, **de la conception** et de la **communication numérique**.* <br>
@@ -43,7 +43,7 @@
 ![Wix](https://img.shields.io/badge/Wix-%230078D6.svg?style=flat&logo=wix&logoColor=white) 
 ![Elementor](https://img.shields.io/badge/Elementor-%230078D6.svg?style=flat&logo=elementor&logoColor=white)<br>
 
-##### *Mon site bio : [www.digitalpulse.com](https://beacons.ai/mywebsite.com)* <br>
+##### *Mon site temporaire sur Beacons, incluant mes services : [www.digitalpulse.com](https://beacons.ai/mywebsite.com)* <br>
 
 [![X](https://img.shields.io/badge/X-%230077B5.svg?logo=X&logoColor=white)](https://X.com/adjagbafortune)
 [![Facebook](https://img.shields.io/badge/Facebook-%23E4405F.svg?logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=100069535291292)
