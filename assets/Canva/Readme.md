@@ -54,13 +54,13 @@
 *Bannières de publication - partenaire adls2ef*
 
 <div style="display: flex; gap: 10px;">
-  <img src="./static_files/partenairePARULuniversity_adsl2ef.jpg" alt="partenairePARULuniversity_adsl2ef" width="375"/>
-  <img src="./static_files/supportpartenairePARULuniversity_adsl2ef.jpg" alt="supportpartenairePARULuniversity_adsl2ef" width="375"/>
+  <img src="./static_files/partenairePARULuniversity_adsl2ef.jpg" alt="partenairePARULuniversity_adsl2ef" width="450"/>
+  <img src="./static_files/supportpartenairePARULuniversity_adsl2ef.jpg" alt="supportpartenairePARULuniversity_adsl2ef" width="450"/>
 </div><br><br>
 
 *Bannières de publication évenement & promotion*
 
 <div>
-  <img src="./static_files/affichegoupetravail_adsl2ef.jpg" alt="affichegoupetravail_adsl2ef" width="375"/>
-  <img src="./static_files/supportwebinaire_adsl2ef.jpg" alt="supportwebinaire_adsl2ef" width="375"/>
+  <img src="./static_files/affichegoupetravail_adsl2ef.jpg" alt="affichegoupetravail_adsl2ef" width="400"/>
+  <img src="./static_files/supportwebinaire_adsl2ef.jpg" alt="supportwebinaire_adsl2ef" width="400"/>
 </div>
