@@ -2,15 +2,15 @@
 🔗 *Portfolio professionnel - **Designs UX/UI**, **Communication digitale**, **Publications marketing**, **Infographie** et **Prototypage**.* <br><br>
 
 
- *[Infographie - Canva](./assets/Canva/Readme.md) : **Mes travaux spécifiques en design graphique avec l'outil canva.***
+   ***[Infographie - Canva](./assets/Canva/Readme.md) : Mes travaux spécifiques en design graphique avec l'outil canva.***
   
- *[Infographie - Photoshop](./assets/Photoshop/Readme.md) : **Mes travaux spécifiques en design graphique avec le logiciel de conception photoshop.***
+   ***[Infographie - Photoshop](./assets/Photoshop/Readme.md) : Mes travaux spécifiques en design graphique avec le logiciel de conception photoshop.***
   
- *[Communication Marketing](./assets/Communication_Marketing/Readme.md) : **Liens vers des publications réalisées pour diverses structures.***
+   *[Communication Marketing](./assets/Communication_Marketing/Readme.md) : **Liens vers des publications réalisées pour diverses structures.***
   
- *[Prototypes Figma & Anima](./assets/Prototypes/Readme.md) : **Prototypes interactifs et designs UX/UI.***
+   *[Prototypes Figma & Anima](./assets/Prototypes/Readme.md) : **Prototypes interactifs et designs UX/UI.***
   
- *[Cours Programmation Python](./assets/Programmation/Readme.md) : **Mes séries de cours et exercices en programmation avec python.*** <br><br>
+   *[Cours Programmation Python](./assets/Programmation/Readme.md) : **Mes séries de cours et exercices en programmation avec python.*** <br><br>
 
 
 *Développeur passionné par le numérique, mon parcours se focalise sur l'univers dynamique du **développement web**, **de la programmation**, **de la conception** et de la **communication numérique**.* <br>
