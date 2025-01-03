@@ -51,14 +51,14 @@
 <img src="./static_files/Présentationservices_adsl2ef.png" alt="Présentationservices_adsl2ef" width="750"/>
 <img src="./static_files/présentationtarifs_adsl2ef.png" alt="présentationtarifs_adsl2ef" width="750"/><br><br>
 
-*Bannières de publication* <br>
-
-*Bannières de publication - promotion du nouveau service & images d'illustrations des ateliers de vacances* <br>
+*Bannières de publication - partenaire adls2ef*
 
 <div style="display: flex; gap: 10px;">
   <img src="./static_files/partenairePARULuniversity_adsl2ef.jpg" alt="partenairePARULuniversity_adsl2ef" width="450"/>
   <img src="./static_files/supportpartenairePARULuniversity_adsl2ef.jpg" alt="supportpartenairePARULuniversity_adsl2ef" width="450"/>
 </div><br><br>
+
+*Bannières de publication évenement & promotion*
 
 <div>
   <img src="./static_files/affichegoupetravail_adsl2ef.jpg" alt="affichegoupetravail_adsl2ef" width="375"/>
