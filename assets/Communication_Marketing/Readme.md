@@ -65,8 +65,8 @@
   - **Hebergeur :** Hostinger
 
   📌 **Sites développés :**  
-  - *[adsl2ef.net](adsl2ef.net), pour les formations professionnelles*
-  - *[adsl2ef.com](adsl2ef.com), pour la promotion de l'école en ligne et du coaching scolaire (site vitrine)*
+  - *[adsl2ef.net](http://adsl2ef.net/), pour les formations professionnelles*
+  - *[adsl2ef.com](http://adsl2ef.com/), pour la promotion de l'école en ligne et du coaching scolaire (site vitrine)*
 L'objectif de l'intégration de cette solution est de moderniser l'accès à la formation en ligne et de dynamiser la présence numérique de l'entreprise, contribuant ainsi à attirer de nouveaux apprenants et à accroître sa visibilité sur le web..
 
 - **Stratégie de communication digitale et gestion des réseaux sociaux professionnels :**  
