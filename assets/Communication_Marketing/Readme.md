@@ -93,13 +93,13 @@
 **Centre de Formation en Gestion des Systèmes Éducatifs, Lomé-Togo (Contrat de prestation – 4 ans 5 mois)*  
 
 #### **Réalisations et responsabilités**  
-1. **Conseils technologiques** :  
+**Conseils technologiques** :  
    - Recommandation et intégration de solutions informatiques (logiciels et matériels).  
 
-2. **Veille technologique** :  
+**Veille technologique** :  
    - Analyse des tendances et innovations pour proposer des outils adaptés aux besoins de la structure.  
 
-3. **Gestion d’événements ** :  
+**Gestion d’événements** :  
    - Organisation et gestion de webinaires et réunions via **Zoom**.  
    - Mise en place et supervision de **live-streaming YouTube**.  
      - 📌 Live-streaming : [Lien YouTube](https://www.youtube.com/live/bS4ezBMKE_I?si=vMh8mqlw4-PU5LHK).
