@@ -65,16 +65,16 @@
   - **Hebergeur :** Hostinger
 
   📌 **Sites développés :**  
-  - *[adsl2ef.net](http://adsl2ef.net/), pour les formations professionnelles*
-  - *[adsl2ef.com](http://adsl2ef.com/), pour la promotion de l'école en ligne et du coaching scolaire (site vitrine)*
-L'objectif de l'intégration de cette solution est de moderniser l'accès à la formation en ligne et de dynamiser la présence numérique de l'entreprise, contribuant ainsi à attirer de nouveaux apprenants et à accroître sa visibilité sur le web..
+  - *[adsl2ef.net](http://adsl2ef.net/), pour les formations, l'école en ligne et le coaching en ligne.*
+  - *[adsl2ef.com](http://adsl2ef.com/), site vitrine pour la promotion de l'école en ligne et du coaching scolaire.*
+  ##### L'objectif de l'intégration de ces solutions est de moderniser l'accès à la formation en ligne et de dynamiser la présence numérique de l'entreprise, contribuant ainsi à attirer de nouveaux apprenants et à accroître sa visibilité sur le web.<br>
 
 - **Stratégie de communication digitale et gestion des réseaux sociaux professionnels :**  
   - **Administration des comptes sociaux de la structure :**  
-    - *Facebook*, *TikTok*, *LinkedIn*  
+    - *[Facebook](https://www.facebook.com/adsl.formation.tg/about_profile_transparency?locale=fr_FR), [TikTok](https://www.tiktok.com/@adsl2ef), [LinkedIn](https://www.linkedin.com/company/adsl-2ef/?originalSubdomain=tg)*  
   - **Gestion de la communication marketing via les réseaux sociaux :**  
     - Création et planification de contenus visuels et rédactionnels pour augmenter l'engagement et attirer une audience ciblée.
-    - Mise en place de campagnes pour promouvoir les services de formation en ligne, générant une interaction plus directe avec les utilisateurs et la communauté éducative.
+    - Planification de campagnes en langue locale (Ewé) pour la promotion des services du coaching et de l'école en ligne, générant une interaction plus directe avec la cible analphabète ([campagne 1](https://www.facebook.com/adsl.formation.tg/videos/555157342249338/) | [Campagne 2](https://www.facebook.com/adsl.formation.tg/videos/301280804664525/)).
 
 - **Analyse et gestion des données :**  
   - **Organisation et gestion de base de données des contacts médias :**  
