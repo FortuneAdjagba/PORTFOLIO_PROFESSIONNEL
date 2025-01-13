@@ -66,8 +66,6 @@
 </div>
 
 ##### [C.E.O digitalPulse (2019 - à présent)]
-*Logo du site*
+*Logo*
 
-<img src="./static_files/Logo_digitalp.png" alt="Logo_digitalp" width="750"/>
-<img src="./static_files/Logo_digitalp.svg" alt="Logo_digitalp" width="750"/>
-
+<img src="./static_files/Logo_digitalp.png" alt="Logo_digitalp" width="800"/>
