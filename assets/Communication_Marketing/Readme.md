@@ -2,7 +2,8 @@
 #### BIENVENU DANS MON PORTFOLIO_COMMUNICATION MARKETING !
 ###### *Decouvrez mes styles de redaction (vous pouvez pointer la souris sur les liens et appuyer ctrl + clic (windows/linux) ou cmd + clic (macos), ou un clic droit et choisir "ouvrir dans un nouvel onglet").*
 
-### MARKETING DIGITAL - NANATECH
+##### Assistant en communication marketing - Ajc's Creativity (Septembre - Décembre 2024)
+##### MARKETING DIGITAL - NANATECH
 #### Événements organisés :  
 - ##### Atelier de dissémination NaNaTech Écosystème (07 novembre 2024, CETEF)  
   - Rédaction des TDRs et agendas.
@@ -19,7 +20,7 @@
   - Coordination des services médiatiques avec TVT, Radio Lomé, ATOP, et Djena Media.  
   - Suivi logistique et collecte des factures. <br><br>
 
-### STRATEGIES DE CONTENU ET COMMUNICATION DIGITALE - NANATECH
+##### STRATEGIES DE CONTENU ET COMMUNICATION DIGITALE - NANATECH
 
 *Réseaux sociaux professionnels (LinkedIn et Facebook)* :  
 - Élaboration et publication de contenus pour promouvoir les événements NaNaTech.  
@@ -55,8 +56,8 @@
 
 ---
 
-#### Responsable TICE – ADSL-2EF (Août 2021 – Mai 2024)  
-
+##### Responsable TICE – adsl2ef (Août 2021 – Mai 2024)  
+TICE : Technologies de l'Information et de la Communication pour l'Enseignement
 #### Réalisations et Responsabilités  
 - **Intégration de solution e-learning :**  
   - **Outil de gestion de contenu :** CMS WordPress  
@@ -88,17 +89,11 @@
 
 ---
 
+##### Prestations de services en TI - adsl2ef (Janvier 2020 – Mai 2024)  
 
-### **Prestation de service en technologies de l'information – ADSL-2EF** *(Janvier 2020 – Mai 2024)*  
-**Centre de Formation en Gestion des Systèmes Éducatifs, Lomé-Togo (Contrat de prestation – 4 ans 5 mois)*  
-
-#### **Réalisations et responsabilités**  
-**Conseils technologiques** :  
-   - Recommandation et intégration de solutions informatiques (logiciels et matériels).  
-
-**Veille technologique** :  
-   - Analyse des tendances et innovations pour proposer des outils adaptés aux besoins de la structure.  
-
+**Gestion des réseaux sociaux professionnels** :  
+  - [Facebook](https://www.facebook.com/adsl.formation.tg/about_profile_transparency?locale=fr_FR), [TikTok](https://www.tiktok.com/@adsl2ef), [LinkedIn](https://www.linkedin.com/company/adsl-2ef/?originalSubdomain=tg)
+    
 **Gestion d’événements** :  
    - Organisation et gestion de webinaires et réunions via **Zoom**.  
    - Mise en place et supervision de **live-streaming YouTube**.  
