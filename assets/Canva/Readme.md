@@ -62,15 +62,12 @@
 
 <div>
   <img src="./static_files/affichegoupetravail_adsl2ef.jpg" alt="affichegoupetravail_adsl2ef" width="400"/>
-  <img src="./static_files/supportwebinaire_adsl2ef.jpg" alt="supportwebinaire_adsl2ef" width="400"/>
+  <img src="./static_files/supportwebinaire_adsl2ef.jpg" alt="supportwebinaire_adsl2ef" width="400"/><br><br>
 </div>
 
-##### [DigitalPulse (2019 - à présent)]
-*Logo de mon site*
+##### [C.E.O digitalPulse (2019 - à présent)]
+*Logo du site*
 
-<img src="./static_files/Logo_digitalp.png" alt="Logo_digitalp"/>
+<img src="./static_files/Logo_digitalp.png" alt="Logo_digitalp" width="750"/>
+<img src="./static_files/Logo_digitalp.svg" alt="Logo_digitalp" width="750"/>
 
-<div style="display: flex; gap: 10px;">
-  <img src="./static_files/Logo_digitalp.png" alt="Logo_digitalp" width="450"/>
-  <img src="./static_files/BoutiqueEcoSaveInfinity.png" alt="BoutiqueEcoSaveInfinity" width="450"/>
-</div>
