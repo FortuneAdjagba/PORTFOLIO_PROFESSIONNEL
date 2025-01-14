@@ -1,6 +1,6 @@
 
 #### BIENVENU DANS MON PORTFOLIO_COMMUNICATION MARKETING !
-###### *Decouvrez mes styles de redaction avec ces liens (vous pouvez pointer la souris sur les liens et appuyer ctrl + clic (windows/linux) ou cmd + clic (macos), ou un clic droit et choisir "ouvrir dans un nouvel onglet").*
+###### *Decouvrez mes réalisations et styles de redaction avec ces liens (vous pouvez pointer la souris sur les liens et appuyer ctrl + clic (windows/linux) ou cmd + clic (macos), ou un clic droit et choisir "ouvrir dans un nouvel onglet").*
 
 ##### Assistant en communication marketing - Ajc's Creativity (Septembre - Décembre 2024)
 ##### MARKETING DIGITAL - NANATECH
@@ -74,7 +74,7 @@
   - **Gestion de la communication marketing via les réseaux sociaux :**  
     - Création et planification de contenus visuels et rédactionnels pour augmenter l'engagement et attirer une audience ciblée. [Recrutement enseignants](https://www.facebook.com/adsl.formation.tg/videos/555157342249338) | [promotion boutique](https://www.facebook.com/adsl.formation.tg/videos/555157342249338) | Promotion des services du coaching : [exemple 1](https://www.facebook.com/adsl.formation.tg/videos/315862360854784), [exemple 2](https://www.facebook.com/adsl.formation.tg/videos/3347283618902912), [exemple 3](https://www.facebook.com/adsl.formation.tg/videos/323060426946342).
       
-    - Planification de campagnes en langue locale (Ewé) pour la promotion des services du coaching et de l'école en ligne, générant une interaction plus directe avec la cible analphabète. [campagne 1](https://www.facebook.com/adsl.formation.tg/videos/1115975812431308/) | [Campagne 2](https://www.facebook.com/adsl.formation.tg/videos/580830106950905/).
+    - Planification de campagnes en langue locale (Ewé) pour la promotion des services du coaching et de l'école en ligne, générant une interaction plus directe avec la cible analphabète. [Campagne 1](https://www.facebook.com/adsl.formation.tg/videos/1115975812431308/) | [Campagne 2](https://www.facebook.com/adsl.formation.tg/videos/580830106950905/).
 
 - **Analyse et gestion des données :**  
   - **Organisation et gestion de base de données des contacts médias :**  
