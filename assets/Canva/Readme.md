@@ -1,7 +1,7 @@
 
 ##### *QUELQUES-UNS DE MES STYLES DE CONCEPTION VISUELLE POUR DES PUBLICATIONS ADAPTEES AUX CANAUX DE DIFFUSION NUMERIQUES (SITE WEB, RESEAUX SOCIAUX) ET IMPRIMES (AFFICHES, BROCHURES, FLYERS)*<br><br>
 
-##### [Nunya Lab (Septembre - Décembre 2024)]
+##### [Incubateur Nunya Lab (Septembre - Décembre 2024)]
 *Support de publication marketing<br> pour la simulation individuelle d'une Campagne Emailing avec Brevo (ex Sendinblue) dans le cadre du stage*
 
 <img src="./static_files/OffreSpecialeRemisede15.png" alt="OffreSpecialeRemisede15"/>
@@ -66,7 +66,7 @@
   <img src="./static_files/supportwebinaire_adsl2ef.jpg" alt="supportwebinaire_adsl2ef" width="400"/><br><br>
 </div>
 
-##### [C.E.O digitalPulse (2019 - à présent)]
-*Logo*
+##### [C.E.O digitalpulse (2019 - à présent)]
+*Logo du site en developpement*
 
 <img src="./static_files/Logo_digitalp.png" alt="Logo_digitalp" width="800"/>
