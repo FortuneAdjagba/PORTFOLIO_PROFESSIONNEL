@@ -1,6 +1,6 @@
 
 #### BIENVENU DANS MON PORTFOLIO_COMMUNICATION MARKETING !
-###### *Decouvrez mes styles de redaction (vous pouvez pointer la souris sur les liens et appuyer ctrl + clic (windows/linux) ou cmd + clic (macos), ou un clic droit et choisir "ouvrir dans un nouvel onglet").*
+###### *Decouvrez mes styles de redaction avec ces liens (vous pouvez pointer la souris sur les liens et appuyer ctrl + clic (windows/linux) ou cmd + clic (macos), ou un clic droit et choisir "ouvrir dans un nouvel onglet").*
 
 ##### Assistant en communication marketing - Ajc's Creativity (Septembre - Décembre 2024)
 ##### MARKETING DIGITAL - NANATECH
