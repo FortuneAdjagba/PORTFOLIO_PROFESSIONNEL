@@ -54,7 +54,7 @@
 ---
 
 ##### Responsable TICE – adsl2ef (Août 2021 – Mai 2024)  
-TICE : Technologies de l'Information et de la Communication pour l'Enseignement
+##### TICE : Technologies de l'Information et de la Communication pour l'Enseignement
 #### Réalisations et Responsabilités  
 - **Intégration de solution e-learning :**  
   - **Outil de gestion de contenu :** CMS WordPress  
@@ -71,7 +71,8 @@ TICE : Technologies de l'Information et de la Communication pour l'Enseignement
   - **Administration des comptes sociaux de la structure :**  
     - *[Facebook](https://www.facebook.com/adsl.formation.tg/about_profile_transparency?locale=fr_FR), [TikTok](https://www.tiktok.com/@adsl2ef), [LinkedIn](https://www.linkedin.com/company/adsl-2ef/?originalSubdomain=tg)*  
   - **Gestion de la communication marketing via les réseaux sociaux :**  
-    - Création et planification de contenus visuels et rédactionnels pour augmenter l'engagement et attirer une audience ciblée.
+    - Création et planification de contenus visuels et rédactionnels pour augmenter l'engagement et attirer une audience ciblée. [Recrutement enseignants](https://www.facebook.com/adsl.formation.tg/videos/555157342249338) | [promotion boutique](https://www.facebook.com/adsl.formation.tg/videos/555157342249338)
+      
     - Planification de campagnes en langue locale (Ewé) pour la promotion des services du coaching et de l'école en ligne, générant une interaction plus directe avec la cible analphabète ([campagne 1](https://www.facebook.com/adsl.formation.tg/videos/1115975812431308/) | [Campagne 2](https://www.facebook.com/adsl.formation.tg/videos/580830106950905/)).
 
 - **Analyse et gestion des données :**  
@@ -88,10 +89,10 @@ TICE : Technologies de l'Information et de la Communication pour l'Enseignement
 
 ##### Prestations de services en TI - adsl2ef (Janvier 2020 – Mai 2024)  
 
-**Gestion des réseaux sociaux professionnels** :  
-  - [Facebook](https://www.facebook.com/adsl.formation.tg/about_profile_transparency?locale=fr_FR), [TikTok](https://www.tiktok.com/@adsl2ef), [LinkedIn](https://www.linkedin.com/company/adsl-2ef/?originalSubdomain=tg)
+**Audit et participation à la gestion des réseaux sociaux professionnels** :  
+  - *[Facebook](https://www.facebook.com/adsl.formation.tg/about_profile_transparency?locale=fr_FR), [TikTok](https://www.tiktok.com/@adsl2ef), [LinkedIn](https://www.linkedin.com/company/adsl-2ef/?originalSubdomain=tg)*
     
 **Gestion d’événements** :  
-   - Organisation et gestion de webinaires et réunions via **Zoom**.  
-   - Mise en place et supervision de **live-streaming YouTube**.  
-     - 📌 Live-streaming : [Lien YouTube](https://www.youtube.com/live/bS4ezBMKE_I?si=vMh8mqlw4-PU5LHK).
+   - Organisation de webinaires et des réunions avec les partenaires via **Zoom**.
+   - Mise en place et supervision de la visioconférence du 5 Août via la plateforme **youtube** de la structure.
+     - 📌 Visioconférence : [Lien vers la vidéo enrégistrée](https://www.youtube.com/live/bS4ezBMKE_I?si=vMh8mqlw4-PU5LHK).
