@@ -59,8 +59,6 @@
   <img src="./static_files/affichepartenairePARUL_adsl2ef.jpg" alt="affichepartenairePARUL_adsl2ef" width="450"/>
 </div><br><br>
 
-</div><br><br>
-
 *Bannières de publication évenement & promotion*
 
 <div>
