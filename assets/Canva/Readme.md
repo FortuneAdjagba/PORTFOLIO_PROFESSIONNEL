@@ -56,6 +56,9 @@
 <div style="display: flex; gap: 10px;">
   <img src="./static_files/partenairePARULuniversity_adsl2ef.jpg" alt="partenairePARULuniversity_adsl2ef" width="450"/>
   <img src="./static_files/supportpartenairePARULuniversity_adsl2ef.jpg" alt="supportpartenairePARULuniversity_adsl2ef" width="450"/>
+  <img src="./static_files/affichepartenairePARUL_adsl2ef.jpg" alt="affichepartenairePARUL_adsl2ef" width="450"/>
+</div><br><br>
+
 </div><br><br>
 
 *Bannières de publication évenement & promotion*
