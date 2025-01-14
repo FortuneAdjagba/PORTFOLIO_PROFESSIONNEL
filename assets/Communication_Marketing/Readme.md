@@ -53,7 +53,7 @@
 
 ---
 
-##### Responsable TICE – adsl2ef (Août 2021 – Mai 2024)  
+##### Responsable TICE – adsl2ef (Août 2021 – Mai 2024)
 ##### TICE : Technologies de l'Information et de la Communication pour l'Enseignement
 #### Réalisations et Responsabilités  
 - **Intégration de solution e-learning :**  
