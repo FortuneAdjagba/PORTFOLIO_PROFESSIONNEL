@@ -69,11 +69,12 @@
 
 - **Stratégie de communication digitale et gestion des réseaux sociaux professionnels :**  
   - **Administration des comptes sociaux de la structure :**  
-    - *[Facebook](https://www.facebook.com/adsl.formation.tg/about_profile_transparency?locale=fr_FR), [TikTok](https://www.tiktok.com/@adsl2ef), [LinkedIn](https://www.linkedin.com/company/adsl-2ef/?originalSubdomain=tg)*  
+    - *[Facebook](https://www.facebook.com/adsl.formation.tg/about_profile_transparency?locale=fr_FR), [TikTok](https://www.tiktok.com/@adsl2ef), [LinkedIn](https://www.linkedin.com/company/adsl-2ef/?originalSubdomain=tg)*
+       
   - **Gestion de la communication marketing via les réseaux sociaux :**  
-    - Création et planification de contenus visuels et rédactionnels pour augmenter l'engagement et attirer une audience ciblée. [Recrutement enseignants](https://www.facebook.com/adsl.formation.tg/videos/555157342249338) | [promotion boutique](https://www.facebook.com/adsl.formation.tg/videos/555157342249338)
+    - Création et planification de contenus visuels et rédactionnels pour augmenter l'engagement et attirer une audience ciblée. [Recrutement enseignants](https://www.facebook.com/adsl.formation.tg/videos/555157342249338) | [promotion boutique](https://www.facebook.com/adsl.formation.tg/videos/555157342249338) | Promotion des services du coaching : [exemple 1](https://www.facebook.com/adsl.formation.tg/videos/315862360854784), [exemple 2](https://www.facebook.com/adsl.formation.tg/videos/3347283618902912), [exemple 3](https://www.facebook.com/adsl.formation.tg/videos/323060426946342).
       
-    - Planification de campagnes en langue locale (Ewé) pour la promotion des services du coaching et de l'école en ligne, générant une interaction plus directe avec la cible analphabète ([campagne 1](https://www.facebook.com/adsl.formation.tg/videos/1115975812431308/) | [Campagne 2](https://www.facebook.com/adsl.formation.tg/videos/580830106950905/)).
+    - Planification de campagnes en langue locale (Ewé) pour la promotion des services du coaching et de l'école en ligne, générant une interaction plus directe avec la cible analphabète. [campagne 1](https://www.facebook.com/adsl.formation.tg/videos/1115975812431308/) | [Campagne 2](https://www.facebook.com/adsl.formation.tg/videos/580830106950905/).
 
 - **Analyse et gestion des données :**  
   - **Organisation et gestion de base de données des contacts médias :**  
@@ -89,10 +90,10 @@
 
 ##### Prestations de services en TI - adsl2ef (Janvier 2020 – Mai 2024)  
 
-**Audit et participation à la gestion des réseaux sociaux professionnels** :  
+- **Audit et participation à la gestion des réseaux sociaux professionnels** :  
   - *[Facebook](https://www.facebook.com/adsl.formation.tg/about_profile_transparency?locale=fr_FR), [TikTok](https://www.tiktok.com/@adsl2ef), [LinkedIn](https://www.linkedin.com/company/adsl-2ef/?originalSubdomain=tg)*
     
-**Gestion d’événements** :  
+- **Gestion d’événements** :  
    - Organisation de webinaires et des réunions avec les partenaires via **Zoom**.
    - Mise en place et supervision de la visioconférence du 5 Août via la plateforme **youtube** de la structure.
      - 📌 Visioconférence : [Lien vers la vidéo enrégistrée](https://www.youtube.com/live/bS4ezBMKE_I?si=vMh8mqlw4-PU5LHK).
