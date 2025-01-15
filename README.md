@@ -8,7 +8,7 @@
   
    ***[Communication Marketing](./assets/Communication_Marketing/Readme.md) : Liens vers des publications réalisées pour diverses structures.***
   
-   ***[Prototypes Figma & Anima](./assets/Prototypes/Readme.md) : Prototypes interactifs et designs UX/UI.***
+   ***[Conception UI/UX et Développement Backend](./assets/Prototypes/Readme.md) : Mes prototypes Figma/Anima et mes contributions en developpement backend***
   
    ***[Cours Programmation Python](./assets/Programmation/Readme.md) : Mes séries de cours et exercices en programmation avec python.*** <br><br>
 
