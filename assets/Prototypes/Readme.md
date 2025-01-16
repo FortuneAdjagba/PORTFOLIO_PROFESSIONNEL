@@ -1,4 +1,6 @@
 
+##### *TOUTES MES CONTRIBUTIONS ET PROJETS EN DEVELOPPEMENT BACK-END !*<br><br>
+
 
 ##### Assistant en communication marketing - Ajc's Creativity (Septembre - Décembre 2024)
 
@@ -184,7 +186,7 @@
          pass
      ```
 
-2. Configurez Django pour utiliser le modèle personnalisé :
+2. Configuration Django pour utiliser le modèle personnalisé :
    ```python
    AUTH_USER_MODEL = 'app_auth.CustomUser'
    ```
