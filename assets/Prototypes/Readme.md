@@ -11,33 +11,23 @@
    - Conception de la **HOMEPAGE DESKTOP** initial du site.
    - Collaborations pour affiner le design et l'expérience utilisateur.
 
+![Prototype Figma](static_files/figma_view.PNG)
+
+<div style="display: flex; gap: 10px;">
+  <img src="./static_files/Figma_view0011.PNG" alt="Figma_view0011" width="500"/>
+  <img src="./static_files/figma_view001.PNG" alt="figma_view001" width="500"/>
+</div>
+
+🔗 [Lien prototype](https://www.figma.com/design/8V28NVN5XROlyAwgwrMkTL/PROJET_WEB_AJC's?node-id=0-1&t=is0v3rsKy7zlb0Ff-1) | [Lien view prototype](https://www.figma.com/proto/8V28NVN5XROlyAwgwrMkTL/PROJET_WEB_AJC's?node-id=0-1&t=is0v3rsKy7zlb0Ff-1).
+
 - **Développement Django** :
    - Mise en place de l'application d'authentification, incluant la gestion des utilisateurs et la sécurisation des connexions.
    - Configuration de **MySQL** comme base de données et intégration avec **Django ORM**.
+  
+   ![Prototype Figma](static_files/superuser_ajcs.PNG)
 
 - **Dockerisation** :
    - Création d'une configuration Docker pour simplifier le déploiement et l'exécution.
-
-## Fonctionnalités
-- Authentification des utilisateurs avec Django.
-- Base de données MySQL pour une gestion efficace des données.
-- Orchestration avec Docker pour un environnement de développement et de déploiement cohérent.
-
-## Captures d'écran
-### Prototype Figma
-![Prototype Figma](static_files/page_connexion_ajcs.PNG)
-
-### Page d'inscription
-![Page d'inscription](captures/auth_register.png)
-
-### Tableau de bord
-![Tableau de bord](captures/dashboard.png)
-
-## Installation et Exécution
-1. Clonez le dépôt :
-   ```bash
-   git clone https://github.com/votre-utilisateur/PROJET_AJCS.git
-   cd PROJET_AJCS
 
 
 
@@ -325,3 +315,24 @@
              })
              self.assertEqual(User.objects.count(), user_count + 1)
      ```
+
+---
+---
+---
+---
+
+
+## Fonctionnalités
+- Authentification des utilisateurs avec Django.
+- Base de données MySQL pour une gestion efficace des données.
+- Orchestration avec Docker pour un environnement de développement et de déploiement cohérent.
+
+## Captures d'écran
+### Prototype Figma
+![Prototype Figma](static_files/page_connexion_ajcs.PNG)
+
+### Page d'inscription
+![Page d'inscription](captures/auth_register.png)
+
+### Tableau de bord
+![Tableau de bord](captures/dashboard.png)
