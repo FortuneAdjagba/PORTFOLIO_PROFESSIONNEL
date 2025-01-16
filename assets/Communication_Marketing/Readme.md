@@ -7,7 +7,7 @@
 #### Événements organisés :  
 - ##### Atelier de dissémination NaNaTech Écosystème (07 novembre 2024, CETEF)  
   - Rédaction des TDRs et agendas.
-  - Rédaction et diffusion des communiqués de presse.  
+  - Rédaction des communiqués de presse.  
   - Organisation logistique et coordination des médias.  
   - 🔗 [Lien Facebook](https://www.facebook.com/share/p/9wXtNYeddQobTt1S/) | [Lien LinkedIn](https://urlr.me/K3csaN).
   
