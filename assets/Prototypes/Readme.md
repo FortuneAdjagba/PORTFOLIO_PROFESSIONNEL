@@ -1,13 +1,12 @@
-###### Mise à jours en cours...
 
 ##### Assistant en communication marketing - Ajc's Creativity (Septembre - Décembre 2024)
 
-#### Projet de conception de site web de la société (PROJET_WEB_AJC's)
+#### Projet de conception de site web pour la société (PROJET_WEB_AJC's)
 **Objectif projet** : Avoir un site web complet avec la fonctionnalité d'authentificication dans le but d'avoir et d'attirer plus d'utilisateurs grâce à un processus d'inscription et de connexion simple mais efficace.
 
-### Mon rôle : Création de l'application d'authentification dans le projet.
+#### *Mon rôle : Création de l'application d'authentification dans le projet*.
 
-- **Prototype avec Figma** :
+- **Prototypage avec Figma** :
    - Conception de la **HOMEPAGE DESKTOP** initial du site.
    - Collaborations pour affiner le design et l'expérience utilisateur.
 
@@ -16,7 +15,7 @@
 <div style="display: flex; gap: 10px;">
   <img src="./static_files/Figma_view0011.PNG" alt="Figma_view0011" width="500"/>
   <img src="./static_files/figma_view001.PNG" alt="figma_view001" width="500"/>
-</div>
+</div><br>
 
 🔗 [Lien prototype](https://www.figma.com/design/8V28NVN5XROlyAwgwrMkTL/PROJET_WEB_AJC's?node-id=0-1&t=is0v3rsKy7zlb0Ff-1) | [Lien view prototype](https://www.figma.com/proto/8V28NVN5XROlyAwgwrMkTL/PROJET_WEB_AJC's?node-id=0-1&t=is0v3rsKy7zlb0Ff-1).
 
@@ -65,7 +64,7 @@
       COPY . /app/
     ```
 
-  - Fichier `docker-compose.yml` configuration des services nécessaires :
+  - Configuration des services nécessaires avec le fichier <br> `docker-compose.yml` :
     ```yaml
     
       version: '3.8'
@@ -104,7 +103,7 @@
     ```
 
 - **Installation des dépendances** :
-  - Les dépendances sont définies dans `requirements.txt` :
+  - Définition des dépendances dans le <br> `requirements.txt` :
     ```text
     Django==5.1.3
       mysqlclient==2.1.1  
@@ -122,7 +121,7 @@
 ### **étape 2. Configuration de MySQL et Intégration avec Django ORM**
 
 1. **Configuration de la base de données** :
-   - Dans , configuration d'une connexion MySQL le `site_web_ajcscreativity/settings.py`:
+   - Configuration d'une connexion MySQL dans le `site_web_ajcscreativity/settings.py`:
      ```python
      DATABASES = {
          'default': {
