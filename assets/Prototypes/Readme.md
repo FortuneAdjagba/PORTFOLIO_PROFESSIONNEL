@@ -55,7 +55,7 @@
   - Technologies principales incluent : **Python 3.11**, **Django 5.1.3**, et **MySQL**.
 
 - **Dockerisation** :
-  - Configuration de l'environnement Python avec les dépendances nécessaires dans le `Dockerfile`:
+  - Configuration de l'environnement Python avec les dépendances nécessaires dans le <br><br>`Dockerfile`:
        ```Dockerfile
     # Utilisation d'image officielle Python comme base
       FROM python:3.11-slim
