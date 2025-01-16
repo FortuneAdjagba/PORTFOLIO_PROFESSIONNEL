@@ -29,11 +29,6 @@
 - **Dockerisation** :
    - Création d'une configuration Docker pour simplifier le déploiement et l'exécution.
 
-
-
-
-   Voici une version adaptée de votre documentation en suivant précisément l’ordre que vous avez demandé, tout en prenant en compte les spécificités de votre projet **PROJET_AJCS** et les informations fournies (Docker, Django, MySQL, etc.) :
-
 ---
 
 ## **Documentation du processus de mise en place de la fonctionnalités d'authentification**
@@ -316,23 +311,8 @@
              self.assertEqual(User.objects.count(), user_count + 1)
      ```
 
----
----
----
----
-
-
-## Fonctionnalités
+## Résumé
 - Authentification des utilisateurs avec Django.
 - Base de données MySQL pour une gestion efficace des données.
 - Orchestration avec Docker pour un environnement de développement et de déploiement cohérent.
 
-## Captures d'écran
-### Prototype Figma
-![Prototype Figma](static_files/page_connexion_ajcs.PNG)
-
-### Page d'inscription
-![Page d'inscription](captures/auth_register.png)
-
-### Tableau de bord
-![Tableau de bord](captures/dashboard.png)
