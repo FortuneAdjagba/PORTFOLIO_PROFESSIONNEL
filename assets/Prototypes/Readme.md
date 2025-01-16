@@ -31,7 +31,7 @@
 
 ---
 
-## **Documentation du processus de mise en place de la fonctionnalités d'authentification**
+## **Documentation du processus de mise en place de cette fonctionnalité d'authentification**
 
 ### **étape 1. Installation et Configuration du Projet**
 
