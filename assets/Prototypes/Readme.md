@@ -1,8 +1,9 @@
 
+
 ##### Assistant en communication marketing - Ajc's Creativity (Septembre - Décembre 2024)
 
 #### Projet de conception de site web pour la société (PROJET_WEB_AJC's)
-**Objectif projet** : Avoir un site web complet avec la fonctionnalité d'authentificication dans le but d'avoir et d'attirer plus d'utilisateurs grâce à un processus d'inscription et de connexion simple mais efficace.
+**Objectif projet** : Avoir un site web complet avec la fonctionnalité d'authentificication dans le but d'attirer plus d'utilisateurs grâce à un processus d'inscription et de connexion simple mais efficace.
 
 #### *Mon rôle : Création de l'application d'authentification dans le projet*.
 
