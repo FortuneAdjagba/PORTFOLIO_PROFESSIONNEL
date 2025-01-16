@@ -296,7 +296,7 @@
    - Protection CSRF dans les templates avec le (`{% csrf_token %}`).
 
 2. **Tests** :
-   - Ajout des tests dans `app_auth/tests.py` :
+   - Ajout de tests dans `app_auth/tests.py` :
      ```python
      from django.test import TestCase
      from django.contrib.auth import get_user_model
@@ -317,4 +317,20 @@
 - Authentification des utilisateurs avec Django.
 - Base de données MySQL pour une gestion efficace des données.
 - Orchestration avec Docker pour un environnement de développement et de déploiement cohérent.
+
+---
+
+#Projets 2025
+
+### Création d'un système de facturation
+Description du projet :
+Développement d'une application complète de facturation avec Django et Python. L'application inclut les fonctionnalités suivantes :
+
+Configuration initiale du projet et définition des modèles de données.
+Gestion des factures et des clients.
+Génération automatique de factures en format PDF.
+Mise en place d'un système d'authentification et de gestion des autorisations.
+Support multilingue (français et anglais).
+Personnalisation avancée de l'espace d'administration de Django pour une meilleure ergonomie.
+
 
