@@ -1,16 +1,19 @@
 
-##### *QUELQUES-UNS DE MES STYLES DE CONCEPTION VISUELLE POUR DES PUBLICATIONS ADAPTEES AUX CANAUX DE DIFFUSION NUMERIQUES (SITE WEB, RESEAUX SOCIAUX) ET IMPRIMES (AFFICHES, BROCHURES, FLYERS)*<br>
+##### *QUELQUES-UNS DE MES STYLES DE CONCEPTION VISUELLE POUR DES PUBLICATIONS ADAPTEES AUX CANAUX DE DIFFUSION NUMERIQUES (SITE WEB, RESEAUX SOCIAUX) ET IMPRIMES (AFFICHES, BROCHURES, FLYERS)*<br><br>
 
-*Mes outils de conception : Photoshop, Canva, Capcut*
+##### [Prestation de service chez Malikaas_Cake (Janvier 2025)]
 
-##### [Malikaas_Cake (Janvier 2025)]
-*Conception de mini vidéos de moins d'1min adaptés pour les shorts réseaux sociaux* <br>
-*Matériels utilisés : **Iphone X** pour la prise des vidéos et **CapCut** pour le montage.*
+*Réalisation de mini-vidéos de moins d'une minute, optimisées pour les shorts et les réseaux sociaux.* <br>
 
-- [Montage vidéo pour les Menus & Prix](https://www.capcut.com/s/CUMdfxt-CQcyrCIH/)
-- [Montage vidéo pour les Menus & Prix deuxième partie](https://www.capcut.com/s/CUbSogahP-wowfwJ/)
-- [Montage vidéo pour l'expérience client](https://www.capcut.com/s/CVFhIoS5YbyItv87/)
-- [Montage vidéo pour la valorisation du cadre](https://www.capcut.com/s/CU9yq-oxjfeVULcj/)
+**Outils utilisés :** <br>
+
+- **iPhone X** : Pour la prise des vidéos.  
+- **CapCut** : Montage et post-production (suppressions de scènes, ajout de textes, d’effets, montage audio et optimisation pour les shorts et réseaux sociaux).  
+
+  - [Montage vidéo pour les Menus & Prix](https://www.capcut.com/s/CUMdfxt-CQcyrCIH/)
+  - [Montage vidéo pour les Menus & Prix deuxième partie](https://www.capcut.com/s/CUbSogahP-wowfwJ/)
+  - [Montage vidéo pour l'expérience client](https://www.capcut.com/s/CVFhIoS5YbyItv87/)
+  - [Montage vidéo pour la valorisation du cadre](https://www.capcut.com/s/CU9yq-oxjfeVULcj/)
 
 ##### [Nunya Lab (Septembre - Décembre 2024)]
 *Support de publication marketing<br> pour la simulation individuelle d'une Campagne Emailing avec Brevo (ex Sendinblue) dans le cadre du stage*
