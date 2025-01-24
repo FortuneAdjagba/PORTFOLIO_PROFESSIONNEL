@@ -1,10 +1,16 @@
-Menu&Prix : https://www.capcut.com/s/CUMdfxt-CQcyrCIH/<br>
-Menu&Prix2 : https://www.capcut.com/s/CUbSogahP-wowfwJ/ <br>
-Expérience client : https://www.capcut.com/s/CVFhIoS5YbyItv87/ <br>
-Cadre : https://www.capcut.com/s/CU9yq-oxjfeVULcj/ <br>
 
-##### *QUELQUES-UNS DE MES STYLES DE CONCEPTION VISUELLE POUR DES PUBLICATIONS ADAPTEES AUX CANAUX DE DIFFUSION NUMERIQUES (SITE WEB, RESEAUX SOCIAUX) ET IMPRIMES (AFFICHES, BROCHURES, FLYERS)*<br><br>
-*Mes outils : Canva, Photoshop, Capcut-
+##### *QUELQUES-UNS DE MES STYLES DE CONCEPTION VISUELLE POUR DES PUBLICATIONS ADAPTEES AUX CANAUX DE DIFFUSION NUMERIQUES (SITE WEB, RESEAUX SOCIAUX) ET IMPRIMES (AFFICHES, BROCHURES, FLYERS)*<br>
+
+*Mes outils de conception : Photoshop, Canva, Capcut*
+
+##### [Malikaas_Cake (Janvier 2025)]
+*Conception de mini vidéos de moins d'1min adaptés pour les shorts réseaux sociaux* <br>
+*Matériels utilisés : **Iphone X** pour la prise des vidéos et **CapCut** pour le montage.*
+
+- [Montage vidéo pour les Menus & Prix](https://www.capcut.com/s/CUMdfxt-CQcyrCIH/)
+- [Montage vidéo pour les Menus & Prix deuxième partie](https://www.capcut.com/s/CUbSogahP-wowfwJ/)
+- [Montage vidéo pour l'expérience client](https://www.capcut.com/s/CVFhIoS5YbyItv87/)
+- [Montage vidéo pour la valorisation du cadre](https://www.capcut.com/s/CU9yq-oxjfeVULcj/)
 
 ##### [Nunya Lab (Septembre - Décembre 2024)]
 *Support de publication marketing<br> pour la simulation individuelle d'une Campagne Emailing avec Brevo (ex Sendinblue) dans le cadre du stage*
