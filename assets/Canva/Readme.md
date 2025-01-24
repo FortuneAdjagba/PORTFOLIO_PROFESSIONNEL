@@ -1,5 +1,6 @@
 
 ##### *QUELQUES-UNS DE MES STYLES DE CONCEPTION VISUELLE POUR DES PUBLICATIONS ADAPTEES AUX CANAUX DE DIFFUSION NUMERIQUES (SITE WEB, RESEAUX SOCIAUX) ET IMPRIMES (AFFICHES, BROCHURES, FLYERS)*<br><br>
+*Mes outils : Canva, Photoshop, Capcut-
 
 ##### [Nunya Lab (Septembre - Décembre 2024)]
 *Support de publication marketing<br> pour la simulation individuelle d'une Campagne Emailing avec Brevo (ex Sendinblue) dans le cadre du stage*
@@ -39,7 +40,7 @@
   <img src="./static_files/maquettereservation.png" alt="maquettereservation" width="450"/>
 </div><br><br>
 
-*images de fond page accueil - paour la conception web UI*
+*images de fond page accueil - pour la conception web UI*
 
 <img src="./static_files/sitewebpageaccueil_adsl2ef.png" alt="sitewebpageaccueil_adsl2ef" width="750"/><br><br>
 
