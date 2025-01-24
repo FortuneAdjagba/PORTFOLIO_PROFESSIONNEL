@@ -66,7 +66,7 @@
   <img src="./static_files/supportwebinaire_adsl2ef.jpg" alt="supportwebinaire_adsl2ef" width="400"/><br><br>
 </div>
 
-##### [C.E.O digitalpulse (2019 - à présent)]
+##### [CEO digitalpulse (2019 - à présent)]
 *Logo du site en developpement*
 
 <img src="./static_files/Logo_digitalp.png" alt="Logo_digitalp" width="800"/>
