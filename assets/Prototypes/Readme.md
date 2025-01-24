@@ -320,17 +320,19 @@
 
 ---
 
-#Projets 2025
+# Projets 2025 chez digitalpulse
 
-### Création d'un système de facturation
+### 1. Projet de création d'un système de facturation
 Description du projet :
-Développement d'une application complète de facturation avec Django et Python. L'application inclut les fonctionnalités suivantes :
+Développement d'une application complète de facturation avec Django et Python. <br>
 
-Configuration initiale du projet et définition des modèles de données.
-Gestion des factures et des clients.
-Génération automatique de factures en format PDF.
-Mise en place d'un système d'authentification et de gestion des autorisations.
-Support multilingue (français et anglais).
-Personnalisation avancée de l'espace d'administration de Django pour une meilleure ergonomie.
+L'application va inclure les fonctionnalités suivantes :
 
+- Configuration initiale du projet et définition des modèles de données.
+- Gestion des factures et des clients.
+- Génération automatique de factures en format PDF.
+- Mise en place d'un système d'authentification et de gestion des autorisations.
+- Support multilingue (français et anglais).
+- Personnalisation avancée de l'espace d'administration de Django pour une meilleure ergonomie.
 
+### 2. projet de création d'un système de gestion d'une pharmacie
