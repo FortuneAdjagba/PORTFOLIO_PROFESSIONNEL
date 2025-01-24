@@ -2,7 +2,7 @@
 🔗 *Portfolio professionnel - **Designs UX/UI**, **Communication digitale**, **Publications marketing**, **Infographie** et **Prototypage**.* <br><br>
 
 
-   ***[Infographie et Design Graphique :](./assets/Canva/Readme.md) : Mes travaux avec les logiciels de conception Photoshop, CapCut et l'outil canva***
+   ***[Infographie et Design Graphique :](./assets/Canva/Readme.md) : Mes réalisations avec Photoshop, CapCut et canva***
     
    ***[Communication Marketing](./assets/Communication_Marketing/Readme.md) : Liens vers des publications réalisées pour diverses structures.***
   
