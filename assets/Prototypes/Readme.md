@@ -26,7 +26,7 @@
    - Mise en place de l'application d'authentification, incluant la gestion des utilisateurs et la sécurisation des connexions.
    - Configuration de **MySQL** comme base de données et intégration avec **Django ORM**.
   
-   ![Prototype Figma](static_files/superuser_ajcs.PNG)
+   ![Prototype Figma](static_files/superuser_ajcs.png)
 
 - **Dockerisation** :
    - Création d'une configuration Docker pour simplifier le déploiement et l'exécution.
@@ -245,7 +245,7 @@
 2. **Template associé** :
    - Créeation du fichier `inscription.html` pour afficher le formulaire d’inscription.
 
-   ![Prototype Figma](static_files/page_inscription_ajcs.PNG)
+   ![Prototype Figma](static_files/page_inscription_ajcs.png)
 
 ---
 
@@ -257,7 +257,7 @@
 2. **Template associé** :
    - Créeation du fichier `connexion.html` pour le formulaire de connexion.
 
-   ![Prototype Figma](static_files/page_connexion_ajcs.PNG)
+   ![Prototype Figma](static_files/page_connexion_ajcs.png)
 
 ---
 
@@ -265,7 +265,7 @@
 
 - Ajout d'une vue `logout_view` pour gérer la déconnexion.
 
-   ![Prototype Figma](static_files/page_accueil_ajcs.PNG)
+   ![Prototype Figma](static_files/page_accueil_ajcs.png)
 
 ---
 
@@ -320,19 +320,18 @@
 
 ---
 
-# Projets 2025 chez digitalpulse
+### Projets 2025 chez digitalpulse
 
-### 1. Projet de création d'un système de facturation
-Description du projet :
+#### 1. Création d'un système de facturation
+
 Développement d'une application complète de facturation avec Django et Python. <br>
 
-L'application va inclure les fonctionnalités suivantes :
+**Les services offerts à l'utilisateur final :**
 
-- Configuration initiale du projet et définition des modèles de données.
-- Gestion des factures et des clients.
-- Génération automatique de factures en format PDF.
-- Mise en place d'un système d'authentification et de gestion des autorisations.
-- Support multilingue (français et anglais).
-- Personnalisation avancée de l'espace d'administration de Django pour une meilleure ergonomie.
+- Création et gestion de factures.
+- Téléchargement des factures au format PDF.
+- Gestion des clients et de leurs informations.
+- Système d'authentification et de gestion des autorisations.
+- Support multilingue (français et anglais) dans l'interface utilisateur.
 
-### 2. projet de création d'un système de gestion d'une pharmacie
+#### 2. Création d'un système de gestion d'une pharmacie.
