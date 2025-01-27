@@ -1,7 +1,5 @@
 
-##### *QUELQUES-UNS DE MES STYLES DE CONCEPTION VISUELLE POUR DES PUBLICATIONS ADAPTEES AUX CANAUX DE DIFFUSION NUMERIQUES (SITE WEB, RESEAUX SOCIAUX) ET IMPRIMES (AFFICHES, BROCHURES, FLYERS).*  <br>
-
-##### Liste non exhaustive <br><br>
+##### *QUELQUES-UNS DE MES STYLES DE CONCEPTION VISUELLE POUR DES PUBLICATIONS ADAPTEES AUX CANAUX DE DIFFUSION NUMERIQUES (SITE WEB, RESEAUX SOCIAUX) ET IMPRIMES (AFFICHES, BROCHURES, FLYERS). LISTE NON EXHAUSTIVE*  <br><br>
 
 ##### [Prestation de service chez Malikaas_Cake (Janvier 2025)]
 
@@ -10,7 +8,7 @@
 **Outils utilisés :** <br>
 
 - **iPhone X** : Pour la prise des vidéos.  
-- **CapCut** : Montage et post-production (suppressions de scènes, ajout de textes, d’effets, montage audio et optimisation pour les shorts et réseaux sociaux).  
+- **CapCut** : Montage et post-production <br> (Suppressions de scènes, ajout de textes, d’effets, montage audio et optimisation pour les shorts et réseaux sociaux).  
 
   - [Montage vidéo pour les Menus & Prix](https://www.capcut.com/s/CUMdfxt-CQcyrCIH/)
   - [Montage vidéo pour les Menus & Prix deuxième partie](https://www.capcut.com/s/CUbSogahP-wowfwJ/)
