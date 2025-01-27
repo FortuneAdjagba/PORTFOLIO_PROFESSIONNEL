@@ -100,7 +100,7 @@
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="30" height="30"/> 
   </a>  
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> 
-    <img src="./assets/Prototypes/static_files/photoshop-icon" alt="adobe photoshop" width="30" height="30"/> 
+    <img src="./assets/Prototypes/static_files/photoshop-icon.png" alt="adobe photoshop" width="30" height="30"/> 
   </a>  
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
