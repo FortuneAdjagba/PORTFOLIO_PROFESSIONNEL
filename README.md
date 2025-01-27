@@ -4,7 +4,7 @@
 
    ***[Infographie et Design Graphique :](./assets/Canva/Readme.md) : Une selection de mes réalisations avec Photoshop, CapCut et canva***
     
-   ***[Communication Marketing](./assets/Communication_Marketing/Readme.md) : Liens vers des publications réalisées pour diverses structures.***
+   ***[Communication Marketing](./assets/Communication_Marketing/Readme.md) : Publications réalisées pour diverses structures.***
   
    ***[Conception UI/UX et Développement Backend](./assets/Prototypes/Readme.md) : Mes prototypes Figma/Anima et mes contributions en developpement backend***
   
