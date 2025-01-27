@@ -51,7 +51,7 @@
 
 
 
-<h3 align="left">💻 Mes outils du quotidien </h3>
+##### *💻 Mes outils du quotidien :* <br>
 
 <p align="left">  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -166,7 +166,3 @@
 </a>
 
 </p>
-
-
-
-
