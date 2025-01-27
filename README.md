@@ -84,7 +84,7 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="35" height="35"/> 
   </a> 
 <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="./assets/Prototypes/static_files/github-icon.png" alt="github" width="35" height="35"/> 
+    <img src="./assets/Prototypes/static_files/github-icon.svg" alt="github" width="35" height="35"/> 
   </a>  
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/> 
