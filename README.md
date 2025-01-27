@@ -161,6 +161,9 @@
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="notion" width="40" height="40"/> 
 </a>
+<a href="https://elementor.com/" target="_blank" rel="noreferrer"> 
+  <img src="./assets/Canva/static_files/elementor-original.png" alt="elementor" width="40" height="40"/> 
+</a>
 
 </p>
 
