@@ -10,7 +10,6 @@
   
    ***[Cours Programmation Python](./assets/Programmation/Readme.md) : Mes séries de cours et exercices en programmation avec python.*** <br><br>
 
-
 *Développeur passionné par le numérique, mon parcours se focalise sur l'univers dynamique du **développement web**, **de la programmation**, **de la conception** et de la **communication numérique**.* <br>
 
 ##### *💻 Mes outils du quotidien :* <br>
