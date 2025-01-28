@@ -12,7 +12,7 @@
 
 *Développeur passionné par le numérique, mon parcours se focalise sur l'univers dynamique du **développement web**, **de la programmation**, **de la conception** et de la **communication numérique**.* <br>
 
-##### *💻 Mes outils du quotidien :* <br>
+#### *💻 Mes outils du quotidien :* <br>
 
 <p align="left">  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
