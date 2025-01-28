@@ -53,6 +53,13 @@
 
 ---
 
+##### Stage communication marketing - Nunya LAB (Septembre - Décembre 2024)
+Simulation campagne marketing
+
+
+
+---
+
 ##### Responsable TICE – adsl2ef (Août 2021 – Mai 2024)
 ##### TICE : Technologies de l'Information et de la Communication pour l'Enseignement
 #### Réalisations et Responsabilités  
