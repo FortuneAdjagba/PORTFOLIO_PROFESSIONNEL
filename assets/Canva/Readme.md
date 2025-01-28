@@ -101,17 +101,24 @@
 
 ##### [Freelance prestations]
 
-*Maquettes - Outil photoshop*
+*Conception - Outil photoshop*
 
-- Groupe miraf (partenaire adls2ef) - Adjoasika Na Mawu
-(Boutique de mode et de création)*
+- Groupe miraf (adls2ef partenaire) <br> Évenement de février 2024 pour la promotion de l'activité physique
 
 <div style="display: flex; gap: 10px;">
-  <img src="./static_files/affichepartenairemiraf_adsl2ef.jpg" alt="affichepartenairemiraf_adsl2ef" width="450"/>
-  <img src="./static_files/prestationnoelajoasika.jpg" alt="prestationnoelajoasika" width="450"/>
-  <img src="./static_files/prestationlepatio.jpg" alt="prestationlepatio" width="450"/>
+  <img src="./static_files/affichepartenairemiraf_adsl2ef.jpg" alt="affichepartenairemiraf_adsl2ef" width="600"/>
 </div><br><br>
 
+- 2 prestation_Adjoasika Na Mawu (Boutique de mode et de création) <br> Mois de décembre 2024
 
+<div style="display: flex; gap: 10px;">
+  <div style="display: flex; gap: 10px;">
+    <img src="./static_files/prestation-decembre-vibe.heic" alt="prestation-decembre-vibe" width="450"/>
+  <img src="./static_files/prestationnoelajoasika.jpg" alt="prestationnoelajoasika" width="450"/>
+</div><br><br>
+
+- 1 prestation_Affiche de publication expo vente  (Lithos Bella) <br> Évenement d'août 2024
+
+  <img src="./static_files/prestationlepatio.jpg" alt="prestationlepatio" width="550"/>
 
 
