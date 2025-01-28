@@ -63,23 +63,33 @@ Simulation campagne marketing
 
 ##### Responsable TICE – adsl2ef (Août 2021 – Mai 2024)
 ##### TICE : Technologies de l'Information et de la Communication pour l'Enseignement
-#### Réalisations et Responsabilités  
-- **Intégration de solution e-learning :**  
+#### Réalisations et Responsabilités 
+- **Intégration de solution e-learning et de site vitrine :**
+  
+    L'objectif de l'intégration de ces solutions est de moderniser l'accès à la formation en ligne et de dynamiser la présence numérique de l'entreprise, contribuant ainsi à attirer de nouveaux apprenants et à accroître sa visibilité sur le web.<br>
+
+
   - **Outil de gestion de contenu :** CMS WordPress  
-  - **Technologies utilisées :** HTML, CSS, JavaScript, PHP, MySQL  
   - **Plugins :** WooCommerce, Elementor Pro, Tutor LMS
+    - WooCommerce : Gestion de vente de cours en ligne avec le système de boutique intégré et intégration des passerelles PayPal, Stripe pour les paiements.
+
+    - Elementor Pro : Conception et personnalisation visuelle avancée.
+
+    - Tutor LMS : Gestion des fonctionnalités spécifiques à l'e-learning (création de cours, suivi des apprenants, quiz). Interface intuitive pour les enseignants afin de créer et organiser leurs cours. Tableaux de bord pour suivi détaillé des performances des apprenants.
+
   - **Hebergeur :** Hostinger
 
   📌 **Sites développés :**  
   - *[adsl2ef.net](http://adsl2ef.net/), pour les formations, l'école en ligne et le coaching en ligne.*
   - *[adsl2ef.com](http://adsl2ef.com/), site vitrine pour la promotion de l'école en ligne et du coaching scolaire.*
-  ##### L'objectif de l'intégration de ces solutions est de moderniser l'accès à la formation en ligne et de dynamiser la présence numérique de l'entreprise, contribuant ainsi à attirer de nouveaux apprenants et à accroître sa visibilité sur le web.<br>
+    
+##### *MISE À JOUR : Les domaines adsl2ef.com et adsl2ef.net, initialement développés sous WordPress et hébergés sur Hostinger, ont été fusionnés sous le domaine [adsl2ef.org](https://www.adsl2ef.org/). Depuis janvier 2025, dans une démarche d'optimisation des fonctionnalités et de réduction des coûts annuels, le développement se poursuit sur la plateforme Odoo.*
 
 - **Stratégie de communication digitale et gestion des réseaux sociaux professionnels :**  
   - **Administration des comptes sociaux de la structure :**  
-    - *[Facebook](https://www.facebook.com/adsl.formation.tg/about_profile_transparency?locale=fr_FR), [TikTok](https://www.tiktok.com/@adsl2ef), [LinkedIn](https://www.linkedin.com/company/adsl-2ef/?originalSubdomain=tg)*
+    - *[Facebook](https://www.facebook.com/adsl.formation.tg/about_profile_transparency?locale=fr_FR), [TikTok](https://www.tiktok.com/@adsl2ef), [LinkedIn](https://www.linkedin.com/company/adsl-2ef/?originalSubdomain=tg)*<br>
 
-  <img src="./assets/Canva/static_files/rsociaux_adsl2ef.png" alt="rsociaux_adsl2ef">
+  <img src="/assets/Canva/static_files/rsociaux_adsl2ef.png" alt="rsociaux_adsl2ef"/> <br>
        
   - **Gestion de la communication marketing via les réseaux sociaux :**  
     - Création et planification de contenus visuels et rédactionnels pour augmenter l'engagement et attirer une audience ciblée. [Recrutement enseignants](https://www.facebook.com/adsl.formation.tg/videos/555157342249338) | [promotion boutique](https://www.facebook.com/adsl.formation.tg/videos/555157342249338) | Promotion des services du coaching : [exemple 1](https://www.facebook.com/adsl.formation.tg/videos/315862360854784), [exemple 2](https://www.facebook.com/adsl.formation.tg/videos/3347283618902912), [exemple 3](https://www.facebook.com/adsl.formation.tg/videos/323060426946342).
@@ -90,11 +100,6 @@ Simulation campagne marketing
   - **Organisation et gestion de base de données des contacts médias :**  
     - Suivi de l'engagement via les réseaux sociaux et segmentation des contacts pour optimiser la communication et le marketing.
     - Utilisation d'Excel pour suivre les performances des campagnes et des actions de communication. Cela a permis une meilleure évaluation des stratégies marketing en termes de portée et d'impact.
-
-#### Compétences Clés :  
-- **Marketing digital :** Création et gestion de contenu sur les réseaux sociaux, développement de stratégies d'engagement.
-- **Analyse de données :** Suivi des performances des campagnes de marketing et gestion de la base de contacts.
-- **Communication visuelle et rédactionnelle :** Création de visuels impactants et rédaction de messages adaptés à l'audience cible.
 
 ---
 
