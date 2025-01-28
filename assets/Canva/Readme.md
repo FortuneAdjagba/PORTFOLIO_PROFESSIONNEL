@@ -16,8 +16,9 @@
   - [Montage vidéo pour la valorisation du cadre](https://www.capcut.com/s/CU9yq-oxjfeVULcj/)
 
 ##### [Nunya Lab (Septembre - Décembre 2024)]
-*Support de publication marketing<br> pour la simulation individuelle d'une Campagne Emailing avec Brevo (ex Sendinblue) dans le cadre du stage*
-
+*Support de publication marketing<br> pour la simulation individuelle d'une Campagne Emailing avec Brevo (ex Sendinblue) dans le cadre du stage* <br>
+ - [Lien de consultaion public](https://www.canva.com/design/DAGQcKKcf0Y/erWeyED-XTXO0e39XrDTuw/view?mode=prototype)
+   
 <img src="./static_files/OffreSpecialeRemisede15.png" alt="OffreSpecialeRemisede15"/>
 
 <div style="display: flex; gap: 10px;">
