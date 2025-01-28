@@ -94,7 +94,24 @@
   <img src="./static_files/supportwebinaire_adsl2ef.jpg" alt="supportwebinaire_adsl2ef" width="400"/><br><br>
 </div>
 
-##### [CEO digitalpulse (2019 - à présent)]
-*Logo du site en developpement*
+##### [CEO digitalpulse (2019 - à présent]
+*Logo du site en developpement - outil canva*
 
 <img src="./static_files/Logo_digitalp.png" alt="Logo_digitalp" width="800"/>
+
+##### [Freelance prestations]
+
+*Maquettes - Outil photoshop*
+
+- Groupe miraf (partenaire adls2ef) - Adjoasika Na Mawu
+(Boutique de mode et de création)*
+
+<div style="display: flex; gap: 10px;">
+  <img src="./static_files/affichepartenairemiraf_adsl2ef.jpg" alt="affichepartenairemiraf_adsl2ef" width="450"/>
+  <img src="./static_files/prestationnoelajoasika.jpg" alt="prestationnoelajoasika" width="450"/>
+  <img src="./static_files/prestationlepatio.jpg" alt="prestationlepatio" width="450"/>
+</div><br><br>
+
+
+
+
