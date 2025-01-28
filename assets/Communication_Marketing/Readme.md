@@ -55,12 +55,9 @@
 ---
 
 ##### Stage communication marketing - Nunya LAB (Septembre - Décembre 2024)
-Simulation campagne marketing
-
-##### [Nunya Lab (Septembre - Décembre 2024)]
 *Simulation individuelle d'une Campagne Emailing avec Brevo (ex Sendinblue) dans le cadre du stage* <br>
    
-<img src="/assets/Canva/static_files/ecosave-png" alt="ecosave-"/>
+<img src="/assets/Canva/static_files/ecosave-.png" alt="ecosave-"/>
 
 <div style="display: flex; gap: 10px;">
   <img src="/assets/Canva/static_files/ecosave-2.png" alt="ecosave-2" width="450"/>
