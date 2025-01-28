@@ -27,7 +27,16 @@
 </div>
 
 ##### [Responsable TICE adsl2ef (Août 2021 – Mai 2024)]
+
+*Montage vidéo_recrutement enseignants* <br>
+
+**Outil utilisé :** Canva <br>  
+
+- [Lien de consultaion](https://www.canva.com/design/DAEuH9BQEts/XlOOUC5BAMIhiF5-P6T-2g/edit?utm_content=DAEuH9BQEts&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 *Bannière de publication - promotion coaching scolaire & app mobile*
+
+- [Lien de consultaion public](https://www.canva.com/design/DAE9Ak8was8/VUPyT4gcT0UvbBEC49oMhw/edit?utm_content=DAE9Ak8was8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <div style="display: flex; gap: 10px;">
   <img src="./static_files/appmobiletraitblanc_adsl2ef.png" alt="appmobiletraitblanc_adsl2ef" width="375"/>
@@ -37,6 +46,8 @@
 </div><br><br>
 
 *Cartes d'images - pour la conception web UI*
+
+- [Lien de consultaion public](https://www.canva.com/design/DAFfWeuOsmM/nspjhFBkHuePpiiShF89Fw/edit?utm_content=DAFfWeuOsmM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <div style="display: flex; gap: 10px;">
 <img src="./static_files/pageaccueil01_adsl2ef.png" alt="pageaccueil01_adsl2ef" width="375"/>
@@ -59,6 +70,8 @@
 <img src="./static_files/sitewebpageaccueil_adsl2ef.png" alt="sitewebpageaccueil_adsl2ef" width="750"/><br><br>
 
 *Infographie informative*
+
+- [Lien de consultaion public](https://www.canva.com/design/DAGde3dupJM/wjGRY3PC8nvxh4e4P7mFew/edit?utm_content=DAGde3dupJM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <img src="./static_files/afficheinformative_adsl2ef.png" alt="afficheinformative_adsl2ef" width="750"/>
 <img src="./static_files/afficheinformative2_adsl2ef.png" alt="afficheinformative2_adsl2ef" width="750"/>
