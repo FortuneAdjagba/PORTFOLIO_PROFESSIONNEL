@@ -16,8 +16,8 @@
 ![Prototype Figma](static_files/figma_view.PNG)
 
 <div style="display: flex; gap: 10px;">
-  <img src="./static_files/Figma_view0011.PNG" alt="Figma_view0011" width="500"/>
-  <img src="./static_files/figma_view001.PNG" alt="figma_view001" width="500"/>
+  <img src="./static_files/Figma_view0011.PNG" alt="Figma_view0011" width="450"/>
+  <img src="./static_files/figma_view001.PNG" alt="figma_view001" width="450"/>
 </div><br>
 
 🔗 [Lien prototype](https://www.figma.com/design/8V28NVN5XROlyAwgwrMkTL/PROJET_WEB_AJC's?node-id=0-1&t=is0v3rsKy7zlb0Ff-1) | [Lien view prototype](https://www.figma.com/proto/8V28NVN5XROlyAwgwrMkTL/PROJET_WEB_AJC's?node-id=0-1&t=is0v3rsKy7zlb0Ff-1).
