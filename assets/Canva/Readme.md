@@ -2,14 +2,23 @@
 ##### *QUELQUES-UNS DE MES STYLES DE CONCEPTION VISUELLE POUR DES PUBLICATIONS ADAPTEES AUX CANAUX DE DIFFUSION NUMERIQUES (SITE WEB, RESEAUX SOCIAUX) ET IMPRIMES (AFFICHES, BROCHURES, FLYERS). LISTE NON EXHAUSTIVE*  <br><br>
 
 ##### [Prestation de service chez Malikaas_Cake (Janvier 2025)]
+Infographie Audiovisuelle et Vidéographie
 
-*Création de contenus vidéos de moins d'une minute, optimisées pour les shorts et les réseaux sociaux.* <br>
+*Création de contenus vidéos promotionnelles de moins d'une minute, optimisées pour les shorts et les réseaux sociaux.* <br>
 
 **Outils utilisés :** <br>
 
-- **iPhone X** : Pour la prise des vidéos.
-- **Stabilisateur GIMBAL Portatif**
-- **CapCut** : Montage et post-production <br> (Suppressions de scènes, ajout de textes, d’effets, montage audio et optimisation pour les shorts et réseaux sociaux).  
+- **iPhone X**
+- **Stabilisateur gimbal portatif**
+- **CapCut** 
+
+Démarche de conception :
+- Prise de vue professionnelle,
+- Éléments graphiques animés : Ajout de textes et d'animations,
+- Effets visuels : Intégration d'effets dynamiques et transitions,
+- Montage post-production : Suppressions de scènes, ajout de textes, d’effets, montage audio et optimisation pour les shorts et réseaux sociaux. <br>
+
+<img src="./static_files/Malikaas_Cake.png" alt="Malikaas_Cake.png"/> <br>
 
   - [Montage vidéo pour les Menus & Prix](https://www.capcut.com/s/CUMdfxt-CQcyrCIH/)
   - [Montage vidéo pour les Menus & Prix deuxième partie](https://www.capcut.com/s/CUbSogahP-wowfwJ/)
