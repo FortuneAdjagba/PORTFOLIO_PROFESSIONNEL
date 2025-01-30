@@ -7,7 +7,8 @@
 
 **Outils utilisés :** <br>
 
-- **iPhone X** : Pour la prise des vidéos.  
+- **iPhone X** : Pour la prise des vidéos.
+- **Stabilisateur GIMBAL Portatif**
 - **CapCut** : Montage et post-production <br> (Suppressions de scènes, ajout de textes, d’effets, montage audio et optimisation pour les shorts et réseaux sociaux).  
 
   - [Montage vidéo pour les Menus & Prix](https://www.capcut.com/s/CUMdfxt-CQcyrCIH/)
