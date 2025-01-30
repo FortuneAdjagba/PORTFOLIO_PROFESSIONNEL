@@ -1,5 +1,5 @@
 
-##### *QUELQUES-UNS DE MES STYLES DE CONCEPTION VISUELLE POUR DES PUBLICATIONS ADAPTEES AUX CANAUX DE DIFFUSION NUMERIQUES (SITE WEB, RESEAUX SOCIAUX) ET IMPRIMES (AFFICHES, BROCHURES, FLYERS). LISTE NON EXHAUSTIVE*  <br><br>
+##### *QUELQUES-UNS DE MES STYLES DE CONCEPTION VISUELLE POUR DES PUBLICATIONS ADAPTEES AUX CANAUX DE DIFFUSION NUMERIQUES (SITE WEB, RESEAUX SOCIAUX) ET IMPRIMES (AFFICHES, BROCHURES, FLYERS). <br><br> LISTE NON EXHAUSTIVE* <br><br>
 
 ##### [Prestation de service chez Malikaas_Cake (Janvier 2025)]
 Infographie Audiovisuelle et Vidéographie
@@ -8,9 +8,7 @@ Infographie Audiovisuelle et Vidéographie
 
 **Outils utilisés :** <br>
 
-- **iPhone X**
-- **Stabilisateur gimbal portatif**
-- **CapCut** 
+- **iPhone X, Stabilisateur gimbal portatif, CapCut** 
 
 Démarche de conception :
 - Prise de vue professionnelle,
