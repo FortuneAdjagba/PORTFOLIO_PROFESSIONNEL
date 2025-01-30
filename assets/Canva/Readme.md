@@ -3,7 +3,7 @@
 
 ##### [Prestation de service chez Malikaas_Cake (Janvier 2025)]
 
-*Réalisation de mini-vidéos de moins d'une minute, optimisées pour les shorts et les réseaux sociaux.* <br>
+*Création de contenus vidéos de moins d'une minute, optimisées pour les shorts et les réseaux sociaux.* <br>
 
 **Outils utilisés :** <br>
 
