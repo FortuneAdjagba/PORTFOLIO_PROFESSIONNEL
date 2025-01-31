@@ -321,20 +321,20 @@
 ---
 ##### Stagiaire étudiant - Ingénieurs et Experts (Groupe IE) (Juin 2019 - Septembre 2019)
 
-#### Conception de site ecommerce pour le client Shop.co société française spécialisée en vente de vêtements Hommes&Dames.
+#### Conception d'un site e-commerce pour le client Shop.co, une boutique française spécialisée dans la vente de vêtements pour hommes et femmes.
 
 #### *Mon rôle : Conception du Design UX complet du site internet en anglais tout en veillant à la logique de navigation*.
 
-- **HOMEPAGE DESKTOP** / **HOMEPAGE MOBILE**.
-- **DETAIL PRODUCT PAGE DESKTOP** / **DETAIL PRODUCT PAGE MOBILE**
-- **CATEGORY PAGE DESKTOP** / **CATEGORY PAGE MOBILE**
-- **Filters**
-- **CART PAGE DESKTOP** / **CART PAGE MOBILE**
+- *Homepage desktop / Homepage mobile*.
+- *Detail product page desktop / Detail product page mobile*
+- *Category page desktop / Category page mobile*
+- *Filters*
+- *Cart page desktop / Cart page mobile*
+
+  🔗 [Lien cover du design](https://www.figma.com/design/z7Rac4Gp9jQTJ9A223bU5w/Template-(Siteweb-E-commerce)_2019?node-id=39-1402&t=3uOusgwiauOmbfJt-1)
 
 ![Prototype Figma](static_files/shopco_2019.png)
 ![Prototype Figma](static_files/shopco-2019.png)
-
-🔗 [Lien prototype](---) | [Lien view prototype](https://www.figma.com/proto/z7Rac4Gp9jQTJ9A223bU5w/Template-(Siteweb-E-commerce)_2019?node-id=39-1402&t=NaeLFtGzcysLa68j-1).
 
 ---
 
