@@ -319,6 +319,24 @@
 - Orchestration avec Docker pour un environnement de développement et de déploiement cohérent.
 
 ---
+##### Stagiaire étudiant - Ingénieurs et Experts (Groupe IE) (Juin 2019 - Septembre 2019)
+
+#### Conception de site ecommerce pour le client Shop.co société française spécialisée en vente de vêtements Hommes&Dames.
+
+#### *Mon rôle : Conception du Design UX complet du site internet en anglais tout en veillant à la logique de navigation*.
+
+- **HOMEPAGE DESKTOP** / **HOMEPAGE MOBILE**.
+- **DETAIL PRODUCT PAGE DESKTOP** / **DETAIL PRODUCT PAGE MOBILE**
+- **CATEGORY PAGE DESKTOP** / **CATEGORY PAGE MOBILE**
+- **Filters**
+- **CART PAGE DESKTOP** / **CART PAGE MOBILE**
+
+![Prototype Figma](static_files/shopco_2019.png)
+![Prototype Figma](static_files/shopco-2019.png)
+
+🔗 [Lien prototype](---) | [Lien view prototype](https://www.figma.com/proto/z7Rac4Gp9jQTJ9A223bU5w/Template-(Siteweb-E-commerce)_2019?node-id=39-1402&t=NaeLFtGzcysLa68j-1).
+
+---
 
 ### Projets 2025 chez digitalpulse
 
